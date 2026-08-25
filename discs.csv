@@ -1,0 +1,622 @@
+disc_id,disc_name,manufacturer,manufacturer_slug,disc_type,speed,glide,turn,fade,stability,pdga_approved
+axiom-discs__alias,Alias,Axiom Discs,axiom-discs,Mid Range,4.0,4.0,-1.0,1.0,0.0,1.0
+axiom-discs__clash,Clash,Axiom Discs,axiom-discs,Control Driver,6.5,4.0,-1.0,2.0,1.0,1.0
+axiom-discs__crave,Crave,Axiom Discs,axiom-discs,Control Driver,6.5,5.0,-1.0,1.0,0.0,1.0
+axiom-discs__defy,Defy,Axiom Discs,axiom-discs,Distance Driver,11.0,5.0,-1.0,3.0,2.0,1.0
+axiom-discs__delirium,Delirium,Axiom Discs,axiom-discs,Distance Driver,14.5,5.0,-0.5,3.0,2.5,1.0
+axiom-discs__envy,Envy,Axiom Discs,axiom-discs,Putt & Approach,3.0,3.0,0.0,2.0,2.0,1.0
+axiom-discs__excite,Excite,Axiom Discs,axiom-discs,Distance Driver,14.5,5.5,-2.0,2.0,0.0,1.0
+axiom-discs__fireball,Fireball,Axiom Discs,axiom-discs,Distance Driver,9.0,3.5,0.0,3.5,3.5,1.0
+axiom-discs__hex,Hex,Axiom Discs,axiom-discs,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+axiom-discs__insanity,Insanity,Axiom Discs,axiom-discs,Control Driver,9.0,5.0,-2.0,1.5,-0.5,1.0
+axiom-discs__inspire,Inspire,Axiom Discs,axiom-discs,Control Driver,6.5,5.0,-1.5,1.0,-0.5,1.0
+axiom-discs__mayhem,Mayhem,Axiom Discs,axiom-discs,Distance Driver,13.0,5.0,-1.5,2.0,0.5,1.0
+axiom-discs__panic,Panic,Axiom Discs,axiom-discs,Distance Driver,13.0,4.0,-0.5,3.0,2.5,1.0
+axiom-discs__proxy,Proxy,Axiom Discs,axiom-discs,Putt & Approach,3.0,3.0,-1.0,0.5,-0.5,1.0
+axiom-discs__pyro,Pyro,Axiom Discs,axiom-discs,Mid Range,5.0,4.0,0.0,2.5,2.5,1.0
+axiom-discs__rhythm,Rhythm,Axiom Discs,axiom-discs,Control Driver,7.0,5.5,-2.0,1.0,-1.0,1.0
+axiom-discs__tenacity,Tenacity,Axiom Discs,axiom-discs,Distance Driver,13.0,5.0,-2.5,2.0,-0.5,1.0
+axiom-discs__theory,Theory,Axiom Discs,axiom-discs,Mid Range,4.0,4.0,-1.5,1.0,-0.5,1.0
+axiom-discs__thrill,Thrill,Axiom Discs,axiom-discs,Distance Driver,11.0,4.0,0.0,3.5,3.5,1.0
+axiom-discs__vanish,Vanish,Axiom Discs,axiom-discs,Distance Driver,11.0,5.0,-3.0,2.0,-1.0,1.0
+axiom-discs__virus,Virus,Axiom Discs,axiom-discs,Distance Driver,9.0,5.0,-3.5,1.0,-2.5,1.0
+axiom-discs__wrath,Wrath,Axiom Discs,axiom-discs,Control Driver,9.0,4.5,-0.5,2.0,1.5,1.0
+clash-discs__berry,Berry,Clash Discs,clash-discs,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+clash-discs__cinnamon,Cinnamon,Clash Discs,clash-discs,Control Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+clash-discs__cookie,Cookie,Clash Discs,clash-discs,Control Driver,7.0,5.0,0.0,2.0,2.0,1.0
+clash-discs__fudge,Fudge,Clash Discs,clash-discs,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+clash-discs__ginger,Ginger,Clash Discs,clash-discs,Control Driver,9.0,4.0,0.0,2.0,2.0,1.0
+clash-discs__lotus,Lotus,Clash Discs,clash-discs,Control Driver,8.0,5.0,-1.0,2.0,1.0,1.0
+clash-discs__mango,Mango,Clash Discs,clash-discs,Mid Range,5.0,4.0,0.0,4.0,4.0,1.0
+clash-discs__mint,Mint,Clash Discs,clash-discs,Putt & Approach,4.0,3.0,0.0,3.0,3.0,1.0
+clash-discs__peach,Peach,Clash Discs,clash-discs,Mid Range,4.0,5.0,-2.0,1.0,-1.0,1.0
+clash-discs__pepper,Pepper,Clash Discs,clash-discs,Distance Driver,11.0,5.0,0.0,4.0,4.0,1.0
+clash-discs__peppermint,Peppermint,Clash Discs,clash-discs,Putt & Approach,4.0,2.0,0.0,4.0,4.0,1.0
+clash-discs__salt,Salt,Clash Discs,clash-discs,Distance Driver,12.0,5.0,-1.0,2.0,1.0,1.0
+clash-discs__soda,Soda,Clash Discs,clash-discs,Control Driver,7.0,5.0,-2.0,2.0,0.0,1.0
+clash-discs__spice,Spice,Clash Discs,clash-discs,Distance Driver,10.0,4.0,0.0,4.0,4.0,1.0
+clash-discs__wild-honey,Wild Honey,Clash Discs,clash-discs,Distance Driver,12.0,5.0,-2.0,2.0,0.0,1.0
+discmania__astronaut,Astronaut,Discmania,discmania,Distance Driver,12.0,6.0,-4.0,1.0,-3.0,1.0
+discmania__cd,CD,Discmania,discmania,Distance Driver,10.0,5.0,-1.0,2.0,1.0,1.0
+discmania__cd2,CD2,Discmania,discmania,Control Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+discmania__cd3,CD3,Discmania,discmania,Distance Driver,11.0,5.0,-1.0,2.0,1.0,1.0
+discmania__dd,DD,Discmania,discmania,Distance Driver,11.0,5.0,0.0,2.0,2.0,1.0
+discmania__dd2,DD2,Discmania,discmania,Distance Driver,13.0,5.0,-2.0,2.0,0.0,1.0
+discmania__dd3,DD3,Discmania,discmania,Distance Driver,12.0,5.0,-1.0,3.0,2.0,1.0
+discmania__ddx,DDx,Discmania,discmania,Distance Driver,12.0,6.0,-1.0,2.0,1.0,1.0
+discmania__enigma,Enigma,Discmania,discmania,Distance Driver,12.0,5.0,-1.0,2.0,1.0,1.0
+discmania__essence,Essence,Discmania,discmania,Control Driver,8.0,6.0,-2.0,1.0,-1.0,1.0
+discmania__fd,FD,Discmania,discmania,Control Driver,7.0,6.0,0.0,1.0,1.0,1.0
+discmania__fd2,FD2,Discmania,discmania,Control Driver,7.0,4.0,0.0,2.0,2.0,1.0
+discmania__fd3,FD3,Discmania,discmania,Control Driver,9.0,4.0,0.0,3.0,3.0,1.0
+discmania__genius,Genius,Discmania,discmania,Control Driver,7.0,5.0,-4.0,1.0,-3.0,1.0
+discmania__instinct,Instinct,Discmania,discmania,Control Driver,7.0,5.0,0.0,2.0,2.0,1.0
+discmania__link,Link,Discmania,discmania,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+discmania__logic,Logic,Discmania,discmania,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+discmania__md,MD,Discmania,discmania,Mid Range,4.0,5.0,0.0,0.0,0.0,1.0
+discmania__md1,MD1,Discmania,discmania,Mid Range,5.0,6.0,0.0,0.0,0.0,1.0
+discmania__md2,MD2,Discmania,discmania,Mid Range,4.0,5.0,0.0,2.0,2.0,1.0
+discmania__md3,MD3,Discmania,discmania,Mid Range,5.0,5.0,0.0,1.0,1.0,1.0
+discmania__md4,MD4,Discmania,discmania,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+discmania__md5,MD5,Discmania,discmania,Mid Range,5.0,3.0,0.0,4.0,4.0,1.0
+discmania__maestro,Maestro,Discmania,discmania,Mid Range,4.0,3.0,0.0,2.0,2.0,1.0
+discmania__magician,Magician,Discmania,discmania,Control Driver,6.0,4.0,0.0,2.0,2.0,1.0
+discmania__majesty,Majesty,Discmania,discmania,Distance Driver,13.0,5.0,-2.0,2.0,0.0,1.0
+discmania__mentor,Mentor,Discmania,discmania,Distance Driver,11.0,5.0,-2.0,2.0,0.0,1.0
+discmania__method,Method,Discmania,discmania,Mid Range,5.0,5.0,0.0,3.0,3.0,1.0
+discmania__mutant,Mutant,Discmania,discmania,Mid Range,5.0,3.0,0.0,4.0,4.0,1.0
+discmania__origin,Origin,Discmania,discmania,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+discmania__p1,P1,Discmania,discmania,Putt & Approach,2.0,3.0,0.0,0.0,0.0,1.0
+discmania__p1x,P1X,Discmania,discmania,Putt & Approach,2.0,3.0,0.0,0.0,0.0,1.0
+discmania__p2,P2,Discmania,discmania,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+discmania__p3,P3,Discmania,discmania,Putt & Approach,3.0,2.0,0.0,3.0,3.0,1.0
+discmania__p3x,P3x,Discmania,discmania,Putt & Approach,3.0,2.0,0.0,3.0,3.0,1.0
+discmania__pd,PD,Discmania,discmania,Distance Driver,10.0,4.0,0.0,3.0,3.0,1.0
+discmania__pd2,PD2,Discmania,discmania,Distance Driver,12.0,4.0,0.0,4.0,4.0,1.0
+discmania__pd3,PD3,Discmania,discmania,Distance Driver,11.0,3.0,0.0,5.0,5.0,1.0
+discmania__pdx,PDx,Discmania,discmania,Distance Driver,11.0,4.0,0.0,3.0,3.0,1.0
+discmania__razor-claw-tactic,Razor Claw Tactic,Discmania,discmania,Putt & Approach,4.0,2.0,0.0,4.0,4.0,1.0
+discmania__rockstar,Rockstar,Discmania,discmania,Control Driver,8.0,5.0,-2.0,1.0,-1.0,1.0
+discmania__sensei,Sensei,Discmania,discmania,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+discmania__shogun,Shogun,Discmania,discmania,Putt & Approach,2.0,4.0,0.0,2.0,2.0,1.0
+discmania__splice,Splice,Discmania,discmania,Control Driver,9.0,3.0,0.0,4.0,4.0,1.0
+discmania__td,TD,Discmania,discmania,Distance Driver,10.0,5.0,-2.0,1.0,-1.0,1.0
+discmania__td2,TD2,Discmania,discmania,Distance Driver,10.0,5.0,-4.0,1.0,-3.0,1.0
+discmania__tdx,TDx,Discmania,discmania,Distance Driver,9.0,5.0,-3.0,1.0,-2.0,1.0
+discmania__tactic,Tactic,Discmania,discmania,Putt & Approach,4.0,2.0,0.0,3.0,3.0,1.0
+discmania__tilt,Tilt,Discmania,discmania,Control Driver,9.0,1.0,1.0,6.0,7.0,1.0
+discraft__apx,APX,Discraft,discraft,Putt & Approach,2.0,2.0,-1.0,1.0,0.0,1.0
+discraft__anax,Anax,Discraft,discraft,Control Driver,10.0,6.0,0.0,3.0,3.0,1.0
+discraft__archer,Archer,Discraft,discraft,Mid Range,5.0,4.0,-4.0,1.0,-3.0,1.0
+discraft__avenger,Avenger,Discraft,discraft,Distance Driver,10.0,5.0,0.0,3.0,3.0,1.0
+discraft__avenger-ss,Avenger SS,Discraft,discraft,Distance Driver,10.0,5.0,-3.0,1.0,-2.0,1.0
+discraft__banger-gt,Banger GT,Discraft,discraft,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+discraft__buzzz,Buzzz,Discraft,discraft,Mid Range,5.0,4.0,-1.0,1.0,0.0,1.0
+discraft__buzzz-gt,Buzzz GT,Discraft,discraft,Mid Range,5.0,5.0,0.0,1.0,1.0,1.0
+discraft__buzzz-os,Buzzz OS,Discraft,discraft,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+discraft__buzzz-ss,Buzzz SS,Discraft,discraft,Mid Range,5.0,4.0,-2.0,1.0,-1.0,1.0
+discraft__challenger,Challenger,Discraft,discraft,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+discraft__challenger-os,Challenger OS,Discraft,discraft,Putt & Approach,2.0,3.0,0.0,3.0,3.0,1.0
+discraft__challenger-ss,Challenger SS,Discraft,discraft,Putt & Approach,2.0,3.0,-1.0,2.0,1.0,1.0
+discraft__comet,Comet,Discraft,discraft,Mid Range,4.0,5.0,-2.0,1.0,-1.0,1.0
+discraft__crank,Crank,Discraft,discraft,Distance Driver,13.0,5.0,-2.0,2.0,0.0,1.0
+discraft__crank-ss,Crank SS,Discraft,discraft,Distance Driver,13.0,5.0,-3.0,2.0,-1.0,1.0
+discraft__crush,Crush,Discraft,discraft,Distance Driver,11.0,5.0,0.0,4.0,4.0,1.0
+discraft__cyclone,Cyclone,Discraft,discraft,Control Driver,7.0,4.0,-1.0,2.0,1.0,1.0
+discraft__drone,Drone,Discraft,discraft,Mid Range,5.0,3.0,1.0,4.0,5.0,1.0
+discraft__eclipse,Eclipse,Discraft,discraft,Control Driver,7.0,5.0,-2.0,2.0,0.0,1.0
+discraft__fierce,Fierce,Discraft,discraft,Putt & Approach,3.0,4.0,-2.0,0.0,-2.0,1.0
+discraft__flash,Flash,Discraft,discraft,Distance Driver,10.0,5.0,-2.0,3.0,1.0,1.0
+discraft__flick,Flick,Discraft,discraft,Distance Driver,12.0,3.0,1.0,5.0,6.0,1.0
+discraft__focus,Focus,Discraft,discraft,Putt & Approach,2.0,2.0,-1.0,2.0,1.0,1.0
+discraft__force,Force,Discraft,discraft,Distance Driver,12.0,5.0,0.0,3.0,3.0,1.0
+discraft__glide,Glide,Discraft,discraft,Mid Range,6.0,5.0,-3.0,1.0,-2.0,1.0
+discraft__hades,Hades,Discraft,discraft,Distance Driver,12.0,6.0,-3.0,2.0,-1.0,1.0
+discraft__hawk,Hawk,Discraft,discraft,Mid Range,4.0,3.0,-2.0,2.0,0.0,1.0
+discraft__heat,Heat,Discraft,discraft,Control Driver,9.0,6.0,-3.0,1.0,-2.0,1.0
+discraft__hornet,Hornet,Discraft,discraft,Mid Range,5.0,5.0,0.0,4.0,4.0,1.0
+discraft__impact,Impact,Discraft,discraft,Mid Range,6.0,6.0,-3.0,1.0,-2.0,1.0
+discraft__luna,Luna,Discraft,discraft,Putt & Approach,3.0,3.0,0.0,3.0,3.0,1.0
+discraft__machete,Machete,Discraft,discraft,Distance Driver,11.0,4.0,0.0,4.0,4.0,1.0
+discraft__magnet,Magnet,Discraft,discraft,Putt & Approach,2.0,3.0,-1.0,1.0,0.0,1.0
+discraft__malta,Malta,Discraft,discraft,Mid Range,5.0,4.0,1.0,3.0,4.0,1.0
+discraft__mantis,Mantis,Discraft,discraft,Control Driver,8.0,4.0,-2.0,2.0,0.0,1.0
+discraft__meteor,Meteor,Discraft,discraft,Mid Range,5.0,5.0,-3.0,1.0,-2.0,1.0
+discraft__nebula,Nebula,Discraft,discraft,Mid Range,5.0,4.0,-0.5,2.0,1.5,1.0
+discraft__nuke,Nuke,Discraft,discraft,Distance Driver,13.0,5.0,-1.0,3.0,2.0,1.0
+discraft__nuke-os,Nuke OS,Discraft,discraft,Distance Driver,13.0,4.0,0.0,4.0,4.0,1.0
+discraft__nuke-ss,Nuke SS,Discraft,discraft,Distance Driver,13.0,5.0,-3.0,3.0,0.0,1.0
+discraft__predator,Predator,Discraft,discraft,Control Driver,9.0,4.0,1.0,4.0,5.0,1.0
+discraft__pulse,Pulse,Discraft,discraft,Distance Driver,11.0,4.0,0.0,3.0,3.0,1.0
+discraft__punisher,Punisher,Discraft,discraft,Distance Driver,12.0,5.0,0.0,3.0,3.0,1.0
+discraft__puttr,Puttr,Discraft,discraft,Putt & Approach,2.0,2.0,-1.0,1.0,0.0,1.0
+discraft__raptor,Raptor,Discraft,discraft,Control Driver,9.0,4.0,0.0,3.0,3.0,1.0
+discraft__rattler,Rattler,Discraft,discraft,Putt & Approach,2.0,2.0,-2.0,1.0,-1.0,1.0
+discraft__reaper,Reaper,Discraft,discraft,Control Driver,8.0,3.0,0.0,4.0,4.0,1.0
+discraft__ringer,Ringer,Discraft,discraft,Putt & Approach,4.0,4.0,0.0,2.0,2.0,1.0
+discraft__ringer-gt,Ringer GT,Discraft,discraft,Putt & Approach,4.0,4.0,0.0,3.0,3.0,1.0
+discraft__riptide,Riptide,Discraft,discraft,Distance Driver,9.0,4.0,0.0,3.0,3.0,1.0
+discraft__roach,Roach,Discraft,discraft,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+discraft__rogue,Rogue,Discraft,discraft,Distance Driver,11.0,4.0,-1.0,1.0,0.0,1.0
+discraft__scorch,Scorch,Discraft,discraft,Distance Driver,11.0,6.0,-2.0,2.0,0.0,1.0
+discraft__soft-magnet,Soft Magnet,Discraft,discraft,Putt & Approach,2.0,3.0,-1.0,2.0,1.0,1.0
+discraft__sol,Sol,Discraft,discraft,Mid Range,4.0,5.0,-3.0,0.0,-3.0,1.0
+discraft__spectra,Spectra,Discraft,discraft,Distance Driver,12.0,5.0,-2.0,2.0,0.0,1.0
+discraft__squall,Squall,Discraft,discraft,Mid Range,6.0,4.0,-1.0,1.0,0.0,1.0
+discraft__stalker,Stalker,Discraft,discraft,Control Driver,7.0,5.0,-1.0,2.0,1.0,1.0
+discraft__sting,Sting,Discraft,discraft,Control Driver,7.0,5.0,-2.0,1.0,-1.0,1.0
+discraft__stratus,Stratus,Discraft,discraft,Mid Range,5.0,4.0,-4.0,1.0,-3.0,1.0
+discraft__surge,Surge,Discraft,discraft,Distance Driver,11.0,5.0,-1.0,3.0,2.0,1.0
+discraft__surge-ss,Surge SS,Discraft,discraft,Distance Driver,11.0,5.0,-2.0,2.0,0.0,1.0
+discraft__talon,Talon,Discraft,discraft,Control Driver,8.0,3.0,1.0,3.0,4.0,1.0
+discraft__thrasher,Thrasher,Discraft,discraft,Distance Driver,12.0,5.0,-3.0,2.0,-1.0,1.0
+discraft__tracker,Tracker,Discraft,discraft,Control Driver,8.0,5.0,-1.0,3.0,2.0,1.0
+discraft__tsunami,Tsunami,Discraft,discraft,Distance Driver,9.0,3.0,0.0,4.0,4.0,1.0
+discraft__undertaker,Undertaker,Discraft,discraft,Control Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+discraft__venom,Venom,Discraft,discraft,Distance Driver,13.0,5.0,0.0,3.0,3.0,1.0
+discraft__vortex,Vortex,Discraft,discraft,Control Driver,7.0,6.0,-3.0,1.0,-2.0,1.0
+discraft__vulture,Vulture,Discraft,discraft,Control Driver,10.0,5.0,0.0,2.0,2.0,1.0
+discraft__wasp,Wasp,Discraft,discraft,Mid Range,5.0,3.0,0.0,2.0,2.0,1.0
+discraft__wildcat,Wildcat,Discraft,discraft,Distance Driver,11.0,5.0,-2.0,3.0,1.0,1.0
+discraft__xl,XL,Discraft,discraft,Control Driver,7.0,4.0,-2.0,1.0,-1.0,1.0
+discraft__xs,XS,Discraft,discraft,Control Driver,8.0,5.0,0.0,3.0,3.0,1.0
+discraft__xpress,Xpress,Discraft,discraft,Control Driver,8.0,5.0,-3.0,1.0,-2.0,1.0
+discraft__xtreme,Xtreme,Discraft,discraft,Control Driver,6.0,3.0,1.0,4.0,5.0,1.0
+discraft__zeppelin,Zeppelin,Discraft,discraft,Putt & Approach,2.5,6.0,-1.0,0.0,-1.0,1.0
+discraft__zeus,Zeus,Discraft,discraft,Distance Driver,12.0,5.0,-1.0,3.0,2.0,1.0
+discraft__zombee,Zombee,Discraft,discraft,Control Driver,6.0,4.0,-1.0,1.0,0.0,1.0
+discraft__zone,Zone,Discraft,discraft,Putt & Approach,4.0,3.0,0.0,3.0,3.0,1.0
+dynamic-discs__bounty,Bounty,Dynamic Discs,dynamic-discs,Mid Range,4.0,5.0,-1.5,0.5,-1.0,1.0
+dynamic-discs__breakout,Breakout,Dynamic Discs,dynamic-discs,Control Driver,8.0,5.0,-1.0,1.5,0.5,1.0
+dynamic-discs__captain,Captain,Dynamic Discs,dynamic-discs,Distance Driver,13.0,5.0,-2.0,2.0,0.0,1.0
+dynamic-discs__convict,Convict,Dynamic Discs,dynamic-discs,Control Driver,9.0,4.0,-0.5,3.0,2.5,1.0
+dynamic-discs__criminal,Criminal,Dynamic Discs,dynamic-discs,Distance Driver,10.0,3.0,1.0,4.0,5.0,1.0
+dynamic-discs__defender,Defender,Dynamic Discs,dynamic-discs,Distance Driver,13.0,5.0,0.0,3.0,3.0,1.0
+dynamic-discs__deputy,Deputy,Dynamic Discs,dynamic-discs,Putt & Approach,3.0,4.0,-1.5,0.0,-1.5,1.0
+dynamic-discs__emac-judge,EMac Judge,Dynamic Discs,dynamic-discs,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+dynamic-discs__emac-truth,EMac Truth,Dynamic Discs,dynamic-discs,Mid Range,5.0,5.0,0.0,2.0,2.0,1.0
+dynamic-discs__enforcer,Enforcer,Dynamic Discs,dynamic-discs,Distance Driver,12.0,4.0,0.5,4.0,4.5,1.0
+dynamic-discs__escape,Escape,Dynamic Discs,dynamic-discs,Control Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+dynamic-discs__evader,Evader,Dynamic Discs,dynamic-discs,Control Driver,7.0,4.0,0.0,2.5,2.5,1.0
+dynamic-discs__evidence,Evidence,Dynamic Discs,dynamic-discs,Mid Range,5.0,5.0,-1.0,0.0,-1.0,1.0
+dynamic-discs__felon,Felon,Dynamic Discs,dynamic-discs,Control Driver,9.0,3.0,0.5,4.0,4.5,1.0
+dynamic-discs__freedom,Freedom,Dynamic Discs,dynamic-discs,Distance Driver,14.0,5.0,-3.0,3.0,0.0,1.0
+dynamic-discs__fugitive,Fugitive,Dynamic Discs,dynamic-discs,Mid Range,5.0,5.0,-0.5,1.5,1.0,1.0
+dynamic-discs__gavel,Gavel,Dynamic Discs,dynamic-discs,Putt & Approach,3.0,5.0,-2.0,0.5,-1.5,1.0
+dynamic-discs__getaway,Getaway,Dynamic Discs,dynamic-discs,Control Driver,9.0,5.0,-0.5,3.0,2.5,1.0
+dynamic-discs__guard,Guard,Dynamic Discs,dynamic-discs,Putt & Approach,2.0,5.0,0.0,0.5,0.5,1.0
+dynamic-discs__judge,Judge,Dynamic Discs,dynamic-discs,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+dynamic-discs__justice,Justice,Dynamic Discs,dynamic-discs,Mid Range,5.0,1.0,0.5,4.0,4.5,1.0
+dynamic-discs__marshal,Marshal,Dynamic Discs,dynamic-discs,Putt & Approach,3.0,4.0,0.0,1.0,1.0,1.0
+dynamic-discs__maverick,Maverick,Dynamic Discs,dynamic-discs,Control Driver,7.0,4.0,-1.5,2.0,0.5,1.0
+dynamic-discs__patrol,Patrol,Dynamic Discs,dynamic-discs,Mid Range,5.0,5.0,-3.0,1.0,-2.0,1.0
+dynamic-discs__proof,Proof,Dynamic Discs,dynamic-discs,Mid Range,5.0,6.0,-3.0,1.0,-2.0,1.0
+dynamic-discs__raider,Raider,Dynamic Discs,dynamic-discs,Distance Driver,13.0,5.0,-0.5,3.0,2.5,1.0
+dynamic-discs__renegade,Renegade,Dynamic Discs,dynamic-discs,Distance Driver,11.0,5.0,-1.5,2.5,1.0,1.0
+dynamic-discs__sergeant,Sergeant,Dynamic Discs,dynamic-discs,Distance Driver,11.0,4.0,0.0,2.5,2.5,1.0
+dynamic-discs__sheriff,Sheriff,Dynamic Discs,dynamic-discs,Distance Driver,13.0,5.0,-1.0,2.0,1.0,1.0
+dynamic-discs__slammer,Slammer,Dynamic Discs,dynamic-discs,Putt & Approach,3.0,2.0,0.0,3.0,3.0,1.0
+dynamic-discs__suspect,Suspect,Dynamic Discs,dynamic-discs,Mid Range,4.0,3.0,0.0,3.0,3.0,1.0
+dynamic-discs__thief,Thief,Dynamic Discs,dynamic-discs,Control Driver,8.0,5.0,-1.5,2.0,0.5,1.0
+dynamic-discs__trespass,Trespass,Dynamic Discs,dynamic-discs,Distance Driver,12.0,5.0,-0.5,3.0,2.5,1.0
+dynamic-discs__truth,Truth,Dynamic Discs,dynamic-discs,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+dynamic-discs__vandal,Vandal,Dynamic Discs,dynamic-discs,Control Driver,9.0,5.0,-1.5,2.0,0.5,1.0
+dynamic-discs__verdict,Verdict,Dynamic Discs,dynamic-discs,Mid Range,5.0,4.0,0.0,3.5,3.5,1.0
+dynamic-discs__warden,Warden,Dynamic Discs,dynamic-discs,Putt & Approach,2.0,4.0,0.0,0.5,0.5,1.0
+dynamic-discs__warrant,Warrant,Dynamic Discs,dynamic-discs,Mid Range,5.0,5.0,-2.0,0.0,-2.0,1.0
+dynamic-discs__witness,Witness,Dynamic Discs,dynamic-discs,Control Driver,8.0,6.0,-3.0,1.0,-2.0,1.0
+gateway__apache,Apache,Gateway,gateway,Control Driver,10.0,6.0,0.0,2.0,2.0,1.0
+gateway__apex,Apex,Gateway,gateway,Distance Driver,11.5,6.0,-1.0,2.0,1.0,1.0
+gateway__assassin,Assassin,Gateway,gateway,Control Driver,9.0,6.0,-1.0,1.0,0.0,1.0
+gateway__blade,Blade,Gateway,gateway,Control Driver,9.0,5.0,0.0,3.0,3.0,1.0
+gateway__blaze,Blaze,Gateway,gateway,Mid Range,6.0,4.0,0.0,3.0,3.0,1.0
+gateway__chief,Chief,Gateway,gateway,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+gateway__chief-os,Chief OS,Gateway,gateway,Putt & Approach,3.0,3.0,0.0,2.0,2.0,1.0
+gateway__demon,Demon,Gateway,gateway,Mid Range,6.0,4.0,0.0,4.0,4.0,1.0
+gateway__devil-hawk,Devil Hawk,Gateway,gateway,Putt & Approach,3.0,3.0,0.0,4.0,4.0,1.0
+gateway__diablo,Diablo,Gateway,gateway,Distance Driver,9.0,5.0,0.0,2.0,2.0,1.0
+gateway__element,Element,Gateway,gateway,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+gateway__hybrid,Hybrid,Gateway,gateway,Control Driver,7.0,4.0,-0.5,3.0,2.5,1.0
+gateway__illusion,Illusion,Gateway,gateway,Distance Driver,12.0,5.0,-1.0,3.0,2.0,1.0
+gateway__journey,Journey,Gateway,gateway,Distance Driver,11.5,6.0,-2.0,1.0,-1.0,1.0
+gateway__karma,Karma,Gateway,gateway,Mid Range,5.0,5.0,-1.0,3.0,2.0,1.0
+gateway__magic,Magic,Gateway,gateway,Putt & Approach,2.0,3.0,-1.0,0.0,-1.0,1.0
+gateway__mystic,Mystic,Gateway,gateway,Mid Range,5.0,5.0,-2.0,0.0,-2.0,1.0
+gateway__ninja,Ninja,Gateway,gateway,Distance Driver,10.0,6.0,-1.0,2.0,1.0,1.0
+gateway__prophecy,Prophecy,Gateway,gateway,Mid Range,5.0,5.0,0.0,2.0,2.0,1.0
+gateway__rage,Rage,Gateway,gateway,Distance Driver,10.0,5.0,-0.5,3.5,3.0,1.0
+gateway__sabre,Sabre,Gateway,gateway,Control Driver,7.0,5.0,-1.0,1.0,-1.0,1.0
+gateway__samurai,Samurai,Gateway,gateway,Distance Driver,13.0,5.0,-2.0,1.0,-1.0,1.0
+gateway__scout,Scout,Gateway,gateway,Mid Range,6.0,5.0,-1.0,2.0,1.0,1.0
+gateway__shaman,Shaman,Gateway,gateway,Putt & Approach,3.0,3.0,-1.0,1.0,0.0,1.0
+gateway__siren,Siren,Gateway,gateway,Distance Driver,13.0,5.0,-2.0,1.0,-1.0,1.0
+gateway__slayer,Slayer,Gateway,gateway,Distance Driver,13.0,5.0,-1.0,2.0,1.0,1.0
+gateway__spear,Spear,Gateway,gateway,Control Driver,9.0,6.0,-2.0,1.0,-1.0,1.0
+gateway__speed-demon,Speed Demon,Gateway,gateway,Distance Driver,12.0,3.0,0.0,4.0,4.0,1.0
+gateway__spirit,Spirit,Gateway,gateway,Distance Driver,12.0,4.0,0.0,4.0,4.0,1.0
+gateway__voodoo,Voodoo,Gateway,gateway,Putt & Approach,2.0,3.0,0.0,0.0,0.0,1.0
+gateway__warlock,Warlock,Gateway,gateway,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+gateway__warrior,Warrior,Gateway,gateway,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+gateway__warspear,Warspear,Gateway,gateway,Putt & Approach,2.0,3.0,0.0,2.5,2.5,1.0
+gateway__wizard,Wizard,Gateway,gateway,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+infinite-discs__alpaca,Alpaca,Infinite Discs,infinite-discs,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+infinite-discs__anubis,Anubis,Infinite Discs,infinite-discs,Mid Range,5.0,5.0,0.0,0.0,0.0,1.0
+infinite-discs__aztec,Aztec,Infinite Discs,infinite-discs,Distance Driver,10.0,5.0,-1.0,2.0,1.0,1.0
+infinite-discs__centurion,Centurion,Infinite Discs,infinite-discs,Control Driver,7.0,5.0,-1.0,1.5,0.5,1.0
+infinite-discs__chariot,Chariot,Infinite Discs,infinite-discs,Mid Range,5.0,5.0,0.0,1.0,1.0,1.0
+infinite-discs__cohort,Cohort,Infinite Discs,infinite-discs,Putt & Approach,3.5,4.0,0.0,1.0,1.0,1.0
+infinite-discs__emperor,Emperor,Infinite Discs,infinite-discs,Distance Driver,12.0,5.0,-1.0,2.5,1.5,1.0
+infinite-discs__exodus,Exodus,Infinite Discs,infinite-discs,Control Driver,7.0,5.0,-0.5,2.0,1.5,1.0
+infinite-discs__inca,Inca,Infinite Discs,infinite-discs,Mid Range,5.0,5.0,0.0,3.0,3.0,1.0
+infinite-discs__kon-tiki,Kon Tiki,Infinite Discs,infinite-discs,Mid Range,4.0,5.0,-3.0,0.0,-3.0,1.0
+infinite-discs__maya,Maya,Infinite Discs,infinite-discs,Distance Driver,12.0,5.0,-3.0,1.0,-2.0,1.0
+infinite-discs__myth,Myth,Infinite Discs,infinite-discs,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+infinite-discs__pharaoh,Pharaoh,Infinite Discs,infinite-discs,Distance Driver,13.0,6.0,-1.0,2.0,1.0,1.0
+infinite-discs__ra,Ra,Infinite Discs,infinite-discs,Mid Range,5.0,4.0,0.0,2.5,2.5,1.0
+infinite-discs__ruin,Ruin,Infinite Discs,infinite-discs,Putt & Approach,3.0,3.0,0.0,3.0,3.0,1.0
+infinite-discs__scarab,Scarab,Infinite Discs,infinite-discs,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+infinite-discs__scepter,Scepter,Infinite Discs,infinite-discs,Control Driver,9.0,4.0,0.0,4.0,4.0,1.0
+infinite-discs__slab,Slab,Infinite Discs,infinite-discs,Distance Driver,12.0,3.0,0.0,4.0,4.0,1.0
+infinite-discs__sphinx,Sphinx,Infinite Discs,infinite-discs,Control Driver,9.0,6.0,-3.0,1.0,-2.0,1.0
+infinite-discs__tomb,Tomb,Infinite Discs,infinite-discs,Putt & Approach,3.0,4.0,0.0,1.0,1.0,1.0
+innova__ace,Ace,Innova,innova,Putt & Approach,2.0,3.0,-2.0,1.0,-1.0,1.0
+innova__aero,Aero,Innova,innova,Putt & Approach,3.0,6.0,0.0,0.0,0.0,1.0
+innova__animal,Animal,Innova,innova,Putt & Approach,2.0,1.0,0.0,1.0,1.0,1.0
+innova__ape,Ape,Innova,innova,Distance Driver,13.0,5.0,0.0,4.0,4.0,1.0
+innova__archangel,Archangel,Innova,innova,Control Driver,8.0,6.0,-4.0,1.0,-3.0,1.0
+innova__archon,Archon,Innova,innova,Distance Driver,11.0,5.0,-2.0,2.0,0.0,1.0
+innova__atlas,Atlas,Innova,innova,Mid Range,5.0,4.0,0.0,1.0,1.0,1.0
+innova__avatar,Avatar,Innova,innova,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+innova__aviar,Aviar,Innova,innova,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+innova__aviar-driver,Aviar Driver,Innova,innova,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+innova__aviar3,Aviar3,Innova,innova,Putt & Approach,3.0,2.0,0.0,2.0,2.0,1.0
+innova__aviarx3,AviarX3,Innova,innova,Putt & Approach,3.0,2.0,0.0,3.0,3.0,1.0
+innova__banshee,Banshee,Innova,innova,Control Driver,7.0,3.0,0.0,3.0,3.0,1.0
+innova__barracuda,Barracuda,Innova,innova,Mid Range,5.0,4.0,-2.0,3.0,1.0,1.0
+innova__beast,Beast,Innova,innova,Distance Driver,10.0,5.0,-2.0,2.0,0.0,1.0
+innova__birdie,Birdie,Innova,innova,Putt & Approach,1.0,2.0,0.0,0.0,0.0,1.0
+innova__boss,Boss,Innova,innova,Distance Driver,13.0,5.0,-1.0,3.0,2.0,1.0
+innova__bulldog,Bulldog,Innova,innova,Mid Range,4.0,3.0,0.0,2.0,2.0,1.0
+innova__bullfrog,Bullfrog,Innova,innova,Putt & Approach,3.0,1.0,0.0,1.0,1.0,1.0
+innova__caiman,Caiman,Innova,innova,Mid Range,5.5,2.0,0.0,4.0,4.0,1.0
+innova__cheetah,Cheetah,Innova,innova,Control Driver,6.0,4.0,-2.0,2.0,0.0,1.0
+innova__classic-aviar,Classic Aviar,Innova,innova,Putt & Approach,2.0,3.0,0.0,0.0,0.0,1.0
+innova__classic-roc,Classic Roc,Innova,innova,Putt & Approach,3.0,3.0,0.0,2.0,2.0,1.0
+innova__cobra,Cobra,Innova,innova,Mid Range,4.0,5.0,-2.0,2.0,0.0,1.0
+innova__colossus,Colossus,Innova,innova,Distance Driver,14.0,5.0,-1.0,3.0,2.0,1.0
+innova__colt,Colt,Innova,innova,Putt & Approach,3.0,4.0,-1.0,1.0,0.0,1.0
+innova__commander,Commander,Innova,innova,Mid Range,5.0,3.0,0.0,4.0,4.0,1.0
+innova__condor,Condor,Innova,innova,Mid Range,3.0,4.0,0.0,2.0,2.0,1.0
+innova__corvette,Corvette,Innova,innova,Distance Driver,14.0,6.0,-1.0,2.0,1.0,1.0
+innova__coupe,Coupe,Innova,innova,Putt & Approach,2.0,3.0,-1.0,1.0,0.0,1.0
+innova__coyote,Coyote,Innova,innova,Mid Range,4.0,5.0,0.0,1.0,1.0,1.0
+innova__cro,Cro,Innova,innova,Mid Range,5.0,3.0,0.0,2.0,2.0,1.0
+innova__croc,Croc,Innova,innova,Mid Range,5.5,2.0,0.0,5.0,5.0,1.0
+innova__daedalus,Daedalus,Innova,innova,Distance Driver,13.0,6.0,-3.0,2.0,-1.0,1.0
+innova__dart,Dart,Innova,innova,Putt & Approach,3.0,4.0,0.0,0.0,0.0,1.0
+innova__destroyer,Destroyer,Innova,innova,Distance Driver,12.0,5.0,-1.0,3.0,2.0,1.0
+innova__dominator,Dominator,Innova,innova,Distance Driver,13.0,5.0,-1.0,2.0,1.0,1.0
+innova__dragon,Dragon,Innova,innova,Control Driver,8.0,5.0,-2.0,2.0,0.0,1.0
+innova__eagle,Eagle,Innova,innova,Control Driver,7.0,4.0,-1.0,3.0,2.0,1.0
+innova__fl,FL,Innova,innova,Control Driver,9.0,3.0,0.0,2.0,2.0,1.0
+innova__firebird,Firebird,Innova,innova,Control Driver,9.0,3.0,0.0,4.0,4.0,1.0
+innova__firefly,Firefly,Innova,innova,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+innova__firestorm,Firestorm,Innova,innova,Distance Driver,14.0,4.0,-1.0,3.0,2.0,1.0
+innova__foxbat,Foxbat,Innova,innova,Mid Range,5.0,6.0,-1.0,0.0,-1.0,1.0
+innova__gargoyle,Gargoyle,Innova,innova,Control Driver,6.0,3.0,-1.0,2.0,1.0,1.0
+innova__gator,Gator,Innova,innova,Mid Range,5.0,2.0,0.0,4.0,4.0,1.0
+innova__gator3,Gator3,Innova,innova,Mid Range,5.0,2.0,0.0,3.0,3.0,1.0
+innova__gazelle,Gazelle,Innova,innova,Control Driver,6.0,4.0,0.0,2.0,2.0,1.0
+innova__gremlin-gm,Gremlin GM,Innova,innova,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+innova__griffin,Griffin,Innova,innova,Mid Range,5.0,3.0,1.0,3.0,4.0,1.0
+innova__groove,Groove,Innova,innova,Distance Driver,13.0,6.0,-2.0,2.0,0.0,1.0
+innova__hammer,Hammer,Innova,innova,Putt & Approach,2.0,2.0,-1.0,2.0,1.0,1.0
+innova__hawg,Hawg,Innova,innova,Putt & Approach,2.0,1.0,0.0,3.5,3.5,1.0
+innova__hydra,Hydra,Innova,innova,Putt & Approach,3.0,3.0,0.0,2.0,2.0,1.0
+innova__invader,Invader,Innova,innova,Putt & Approach,3.0,2.0,0.0,1.0,1.0,1.0
+innova__invictus,Invictus,Innova,innova,Distance Driver,10.0,4.0,0.0,3.0,3.0,1.0
+innova__jk-aviar,JK Aviar,Innova,innova,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+innova__jaguar,Jaguar,Innova,innova,Mid Range,5.5,6.0,-3.0,2.0,-1.0,1.0
+innova__kc-aviar,KC Aviar,Innova,innova,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+innova__katana,Katana,Innova,innova,Distance Driver,13.0,5.0,-3.0,3.0,0.0,1.0
+innova__king-cobra,King Cobra,Innova,innova,Mid Range,4.0,5.0,0.0,2.0,2.0,1.0
+innova__kite,Kite,Innova,innova,Mid Range,5.0,6.0,-3.0,1.0,-2.0,1.0
+innova__krait,Krait,Innova,innova,Distance Driver,11.0,5.0,-1.0,2.0,1.0,1.0
+innova__leopard,Leopard,Innova,innova,Control Driver,6.0,5.0,-2.0,1.0,-1.0,1.0
+innova__leopard3,Leopard3,Innova,innova,Control Driver,7.0,5.0,-2.0,1.0,-1.0,1.0
+innova__lion,Lion,Innova,innova,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+innova__lycan,Lycan,Innova,innova,Mid Range,4.0,5.0,0.0,1.0,1.0,1.0
+innova__makani,Makani,Innova,innova,Mid Range,2.0,7.0,-2.0,0.0,-2.0,1.0
+innova__mako,Mako,Innova,innova,Mid Range,4.0,5.0,0.0,0.0,0.0,1.0
+innova__mako3,Mako3,Innova,innova,Mid Range,5.0,5.0,0.0,0.0,0.0,1.0
+innova__mamba,Mamba,Innova,innova,Distance Driver,11.0,6.0,-5.0,1.0,-4.0,1.0
+innova__manta,Manta,Innova,innova,Mid Range,5.0,5.0,-2.0,1.0,-1.0,1.0
+innova__max,Max,Innova,innova,Distance Driver,11.0,3.0,0.0,5.0,5.0,1.0
+innova__mirage,Mirage,Innova,innova,Putt & Approach,3.0,4.0,-3.0,0.0,-3.0,1.0
+innova__monarch,Monarch,Innova,innova,Distance Driver,10.0,5.0,-4.0,1.0,-3.0,1.0
+innova__monster,Monster,Innova,innova,Distance Driver,10.0,3.0,0.0,5.0,5.0,1.0
+innova__mystere,Mystere,Innova,innova,Distance Driver,11.0,6.0,-2.0,2.0,0.0,1.0
+innova__nova,Nova,Innova,innova,Putt & Approach,2.0,3.0,0.0,0.0,0.0,1.0
+innova__orc,Orc,Innova,innova,Distance Driver,10.0,4.0,-1.0,3.0,2.0,1.0
+innova__panther,Panther,Innova,innova,Mid Range,5.0,4.0,-2.0,1.0,-1.0,1.0
+innova__pegasus,Pegasus,Innova,innova,Control Driver,7.0,4.0,-1.0,3.0,2.0,1.0
+innova__pig,Pig,Innova,innova,Putt & Approach,3.0,1.0,0.0,3.0,3.0,1.0
+innova__polecat,Polecat,Innova,innova,Putt & Approach,1.0,3.0,0.0,0.0,0.0,1.0
+innova__python,Python,Innova,innova,Control Driver,7.0,3.0,-1.0,2.0,1.0,1.0
+innova__ram,Ram,Innova,innova,Control Driver,6.0,4.0,1.0,4.0,5.0,1.0
+innova__rancho-roc,Rancho Roc,Innova,innova,Mid Range,4.0,4.0,0.0,3.0,3.0,1.0
+innova__rat,Rat,Innova,innova,Mid Range,4.0,2.0,0.0,3.0,3.0,1.0
+innova__raven,Raven,Innova,innova,Control Driver,6.0,4.0,-2.0,2.0,0.0,1.0
+innova__rhyno,Rhyno,Innova,innova,Putt & Approach,2.0,1.0,0.0,3.0,3.0,1.0
+innova__rhynox,RhynoX,Innova,innova,Putt & Approach,2.0,1.0,0.0,4.0,4.0,1.0
+innova__roadrunner,Roadrunner,Innova,innova,Control Driver,9.0,5.0,-4.0,1.0,-3.0,1.0
+innova__roc,Roc,Innova,innova,Mid Range,4.0,4.0,0.0,3.0,3.0,1.0
+innova__roc-plus,Roc+,Innova,innova,Mid Range,4.0,4.0,0.0,3.0,3.0,1.0
+innova__roc3,Roc3,Innova,innova,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+innova__rocx3,RocX3,Innova,innova,Mid Range,5.0,4.0,0.0,3.5,3.5,1.0
+innova__sl,SL,Innova,innova,Distance Driver,10.0,5.0,-1.0,2.0,1.0,1.0
+innova__savant,Savant,Innova,innova,Control Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+innova__scorpion,Scorpion,Innova,innova,Mid Range,5.0,5.0,-1.0,2.0,1.0,1.0
+innova__shark,Shark,Innova,innova,Mid Range,4.0,4.0,0.0,2.0,2.0,1.0
+innova__shark3,Shark3,Innova,innova,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+innova__shryke,Shryke,Innova,innova,Distance Driver,13.0,6.0,-2.0,2.0,0.0,1.0
+innova__sidewinder,Sidewinder,Innova,innova,Control Driver,9.0,5.0,-3.0,1.0,-2.0,1.0
+innova__skeeter,Skeeter,Innova,innova,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+innova__sonic,Sonic,Innova,innova,Putt & Approach,1.0,2.0,-4.0,0.0,-4.0,1.0
+innova__spider,Spider,Innova,innova,Mid Range,5.0,3.0,0.0,1.0,1.0,1.0
+innova__starfire,Starfire,Innova,innova,Distance Driver,10.0,4.0,0.0,3.0,3.0,1.0
+innova__stingray,Stingray,Innova,innova,Mid Range,4.0,5.0,-3.0,1.0,-2.0,1.0
+innova__stud,Stud,Innova,innova,Putt & Approach,3.0,3.0,0.0,2.0,2.0,1.0
+innova__super-stingray,Super Stingray,Innova,innova,Mid Range,4.0,5.0,-1.0,1.0,0.0,1.0
+innova__tl,TL,Innova,innova,Control Driver,7.0,5.0,-1.0,1.0,0.0,1.0
+innova__tl3,TL3,Innova,innova,Control Driver,8.0,4.0,-1.0,1.0,0.0,1.0
+innova__teebird,TeeBird,Innova,innova,Control Driver,7.0,5.0,0.0,2.0,2.0,1.0
+innova__teebird-plus,TeeBird +,Innova,innova,Control Driver,7.0,5.0,0.0,2.0,2.0,1.0
+innova__teebird3,TeeBird3,Innova,innova,Control Driver,8.0,4.0,0.0,2.0,2.0,1.0
+innova__teedevil,TeeDevil,Innova,innova,Distance Driver,12.0,5.0,-1.0,2.0,1.0,1.0
+innova__teerex,TeeRex,Innova,innova,Distance Driver,11.0,4.0,0.0,4.0,4.0,1.0
+innova__tern,Tern,Innova,innova,Distance Driver,12.0,6.0,-3.0,2.0,-1.0,1.0
+innova__thunderbird,Thunderbird,Innova,innova,Control Driver,9.0,5.0,0.0,2.0,2.0,1.0
+innova__toro,Toro,Innova,innova,Putt & Approach,4.0,2.0,1.0,3.0,4.0,1.0
+innova__vcobra,VCobra,Innova,innova,Mid Range,5.0,5.0,-1.0,2.0,1.0,1.0
+innova__vroc,VRoc,Innova,innova,Mid Range,4.0,4.0,0.0,1.0,1.0,1.0
+innova__valkyrie,Valkyrie,Innova,innova,Control Driver,9.0,4.0,-2.0,2.0,0.0,1.0
+innova__viking,Viking,Innova,innova,Control Driver,9.0,4.0,-1.0,2.0,1.0,1.0
+innova__viper,Viper,Innova,innova,Control Driver,6.0,4.0,1.0,5.0,6.0,1.0
+innova__vulcan,Vulcan,Innova,innova,Distance Driver,13.0,5.0,-4.0,2.0,-2.0,1.0
+innova__wahoo,Wahoo,Innova,innova,Distance Driver,12.0,6.0,-2.0,2.0,0.0,1.0
+innova__warhog,Warhog,Innova,innova,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+innova__wedge,Wedge,Innova,innova,Mid Range,4.0,3.0,-3.0,1.0,-2.0,1.0
+innova__whale,Whale,Innova,innova,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+innova__whippet,Whippet,Innova,innova,Control Driver,6.0,3.0,1.0,5.0,6.0,1.0
+innova__wolf,Wolf,Innova,innova,Mid Range,4.0,3.0,-4.0,1.0,-3.0,1.0
+innova__wombat,Wombat,Innova,innova,Mid Range,5.0,6.0,-1.0,0.0,-1.0,1.0
+innova__wombat3,Wombat3,Innova,innova,Mid Range,5.0,6.0,-1.0,0.0,-1.0,1.0
+innova__wraith,Wraith,Innova,innova,Distance Driver,11.0,5.0,-1.0,3.0,2.0,1.0
+innova__xcaliber,XCaliber,Innova,innova,Distance Driver,12.0,5.0,0.0,4.0,4.0,1.0
+innova__xd,XD,Innova,innova,Putt & Approach,3.0,4.0,-1.0,1.0,0.0,1.0
+innova__xd-plus,XD +,Innova,innova,Putt & Approach,3.0,4.0,-1.0,1.0,0.0,1.0
+innova__yeti-aviar,Yeti Aviar,Innova,innova,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+innova__zephyr,Zephyr,Innova,innova,Putt & Approach,2.0,3.0,0.0,0.0,0.0,1.0
+kastaplast__berg,Berg,Kastaplast,kastaplast,Putt & Approach,1.0,1.0,0.0,2.0,2.0,1.0
+kastaplast__falk,Falk,Kastaplast,kastaplast,Control Driver,9.0,6.0,-2.0,1.0,-1.0,1.0
+kastaplast__gote,Gote,Kastaplast,kastaplast,Mid Range,4.0,5.0,0.0,1.0,1.0,1.0
+kastaplast__grym,Grym,Kastaplast,kastaplast,Distance Driver,13.0,5.0,-2.0,2.0,0.0,1.0
+kastaplast__grym-x,Grym X,Kastaplast,kastaplast,Distance Driver,12.0,5.0,-1.0,3.0,2.0,1.0
+kastaplast__kaxe,Kaxe,Kastaplast,kastaplast,Mid Range,6.0,4.0,0.0,3.0,3.0,1.0
+kastaplast__kaxe-z,Kaxe Z,Kastaplast,kastaplast,Mid Range,6.0,5.0,0.0,2.0,2.0,1.0
+kastaplast__lots,Lots,Kastaplast,kastaplast,Control Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+kastaplast__rask,Rask,Kastaplast,kastaplast,Distance Driver,14.0,3.0,0.0,4.0,4.0,1.0
+kastaplast__reko,Reko,Kastaplast,kastaplast,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+kastaplast__stal,Stal,Kastaplast,kastaplast,Control Driver,9.0,4.0,0.0,3.0,3.0,1.0
+kastaplast__svea,Svea,Kastaplast,kastaplast,Mid Range,5.0,6.0,-1.0,0.0,-1.0,1.0
+latitude-64__anchor,Anchor,Latitude 64,latitude-64,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+latitude-64__ballista,Ballista,Latitude 64,latitude-64,Distance Driver,14.0,5.0,-1.0,3.0,2.0,1.0
+latitude-64__ballista-pro,Ballista Pro,Latitude 64,latitude-64,Distance Driver,14.0,4.0,0.0,3.0,3.0,1.0
+latitude-64__beetle,Beetle,Latitude 64,latitude-64,Putt & Approach,1.0,7.0,-1.0,0.0,-1.0,1.0
+latitude-64__blitz,Blitz,Latitude 64,latitude-64,Distance Driver,12.0,3.0,0.0,4.0,4.0,1.0
+latitude-64__bolt,Bolt,Latitude 64,latitude-64,Distance Driver,13.0,6.0,-2.0,3.0,1.0,1.0
+latitude-64__bryce,Bryce,Latitude 64,latitude-64,Control Driver,9.0,6.0,-2.0,2.0,0.0,1.0
+latitude-64__caltrop,Caltrop,Latitude 64,latitude-64,Putt & Approach,2.0,2.0,0.0,2.0,2.0,1.0
+latitude-64__claymore,Claymore,Latitude 64,latitude-64,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+latitude-64__compass,Compass,Latitude 64,latitude-64,Mid Range,5.0,5.0,0.0,1.0,1.0,1.0
+latitude-64__core,Core,Latitude 64,latitude-64,Mid Range,6.0,5.0,-0.5,1.0,0.5,1.0
+latitude-64__culverin,Culverin,Latitude 64,latitude-64,Control Driver,9.0,5.0,-0.5,3.0,2.5,1.0
+latitude-64__cutlass,Cutlass,Latitude 64,latitude-64,Distance Driver,13.0,5.0,0.0,3.5,3.5,1.0
+latitude-64__dagger,Dagger,Latitude 64,latitude-64,Putt & Approach,2.0,5.0,0.0,1.0,1.0,1.0
+latitude-64__diamond,Diamond,Latitude 64,latitude-64,Control Driver,8.0,6.0,-3.0,1.0,-2.0,1.0
+latitude-64__explorer,Explorer,Latitude 64,latitude-64,Control Driver,7.0,5.0,0.0,2.0,2.0,1.0
+latitude-64__faith,Faith,Latitude 64,latitude-64,Putt & Approach,2.0,3.0,0.0,1.0,1.0,1.0
+latitude-64__falchion,Falchion,Latitude 64,latitude-64,Control Driver,8.0,5.0,-1.0,2.0,1.0,1.0
+latitude-64__flow,Flow,Latitude 64,latitude-64,Distance Driver,11.0,6.0,-0.5,2.0,1.5,1.0
+latitude-64__fuji,Fuji,Latitude 64,latitude-64,Mid Range,4.0,4.0,0.0,2.0,2.0,1.0
+latitude-64__fury,Fury,Latitude 64,latitude-64,Control Driver,9.0,6.0,-2.0,2.0,0.0,1.0
+latitude-64__fuse,Fuse,Latitude 64,latitude-64,Mid Range,5.0,6.0,-1.0,0.0,-1.0,1.0
+latitude-64__gauntlet,Gauntlet,Latitude 64,latitude-64,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+latitude-64__gladiator,Gladiator,Latitude 64,latitude-64,Distance Driver,13.0,5.0,0.0,3.5,3.5,1.0
+latitude-64__gobi,Gobi,Latitude 64,latitude-64,Mid Range,6.0,5.0,-0.5,1.0,0.5,1.0
+latitude-64__grace,Grace,Latitude 64,latitude-64,Distance Driver,11.0,6.0,-1.0,2.0,1.0,1.0
+latitude-64__halo,Halo,Latitude 64,latitude-64,Distance Driver,13.0,5.0,-0.5,3.0,2.5,1.0
+latitude-64__havoc,Havoc,Latitude 64,latitude-64,Distance Driver,13.0,5.0,-1.0,3.0,2.0,1.0
+latitude-64__jade,Jade,Latitude 64,latitude-64,Control Driver,9.0,6.0,-2.0,1.0,-1.0,1.0
+latitude-64__keystone,Keystone,Latitude 64,latitude-64,Putt & Approach,2.0,5.0,-1.0,1.0,0.0,1.0
+latitude-64__knight,Knight,Latitude 64,latitude-64,Distance Driver,14.0,4.0,-1.5,3.0,1.5,1.0
+latitude-64__macana,Macana,Latitude 64,latitude-64,Putt & Approach,2.0,5.0,0.0,1.0,1.0,1.0
+latitude-64__mace,Mace,Latitude 64,latitude-64,Mid Range,5.0,5.0,0.0,2.0,2.0,1.0
+latitude-64__maul,Maul,Latitude 64,latitude-64,Control Driver,7.0,7.0,-2.0,1.0,-1.0,1.0
+latitude-64__medius,Medius,Latitude 64,latitude-64,Mid Range,5.0,5.0,-1.0,2.0,1.0,1.0
+latitude-64__mercy,Mercy,Latitude 64,latitude-64,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+latitude-64__musket,Musket,Latitude 64,latitude-64,Distance Driver,10.0,5.0,-0.5,2.0,1.5,1.0
+latitude-64__pain,Pain,Latitude 64,latitude-64,Mid Range,4.0,4.0,0.0,3.0,3.0,1.0
+latitude-64__pearl,Pearl,Latitude 64,latitude-64,Mid Range,4.0,6.0,-4.0,0.0,-4.0,1.0
+latitude-64__pioneer,Pioneer,Latitude 64,latitude-64,Control Driver,9.0,3.0,0.0,4.0,4.0,1.0
+latitude-64__primitus,Primitus,Latitude 64,latitude-64,Control Driver,9.0,5.0,0.0,2.0,2.0,1.0
+latitude-64__pure,Pure,Latitude 64,latitude-64,Putt & Approach,3.0,3.0,-1.0,1.0,0.0,1.0
+latitude-64__recoil,Recoil,Latitude 64,latitude-64,Distance Driver,12.0,4.0,0.0,3.0,3.0,1.0
+latitude-64__riot,Riot,Latitude 64,latitude-64,Distance Driver,11.0,4.0,-1.0,2.0,1.0,1.0
+latitude-64__rive,Rive,Latitude 64,latitude-64,Distance Driver,13.0,5.0,0.0,3.5,3.5,1.0
+latitude-64__river,River,Latitude 64,latitude-64,Control Driver,7.0,7.0,-1.0,1.0,0.0,1.0
+latitude-64__river-pro,River Pro,Latitude 64,latitude-64,Control Driver,6.0,5.0,0.0,2.0,2.0,1.0
+latitude-64__ruby,Ruby,Latitude 64,latitude-64,Putt & Approach,3.0,5.0,-3.0,1.0,-2.0,1.0
+latitude-64__spz3,SPZ3,Latitude 64,latitude-64,Distance Driver,9.0,6.0,-2.0,2.0,0.0,1.0
+latitude-64__saint,Saint,Latitude 64,latitude-64,Control Driver,9.0,7.0,-1.0,2.0,1.0,1.0
+latitude-64__saint-pro,Saint Pro,Latitude 64,latitude-64,Control Driver,8.0,5.0,-0.5,2.0,1.5,1.0
+latitude-64__sapphire,Sapphire,Latitude 64,latitude-64,Distance Driver,10.0,6.0,-2.0,1.5,-0.5,1.0
+latitude-64__sarek,Sarek,Latitude 64,latitude-64,Putt & Approach,2.0,4.0,0.0,1.5,1.5,1.0
+latitude-64__scythe,Scythe,Latitude 64,latitude-64,Distance Driver,12.0,3.0,0.0,4.0,4.0,1.0
+latitude-64__sinus,Sinus,Latitude 64,latitude-64,Putt & Approach,2.0,2.0,0.0,2.0,2.0,1.0
+latitude-64__spark,Spark,Latitude 64,latitude-64,Control Driver,7.0,4.0,-0.5,3.0,2.5,1.0
+latitude-64__spike,Spike,Latitude 64,latitude-64,Putt & Approach,4.0,3.0,-1.0,1.0,0.0,1.0
+latitude-64__stiletto,Stiletto,Latitude 64,latitude-64,Distance Driver,13.0,3.0,0.5,5.0,5.5,1.0
+latitude-64__striker,Striker,Latitude 64,latitude-64,Control Driver,8.0,5.0,0.0,2.0,2.0,1.0
+latitude-64__trident,Trident,Latitude 64,latitude-64,Control Driver,6.0,4.0,-0.5,3.0,2.5,1.0
+latitude-64__trust,Trust,Latitude 64,latitude-64,Mid Range,5.0,5.0,0.0,2.0,2.0,1.0
+latitude-64__villain,Villain,Latitude 64,latitude-64,Distance Driver,12.0,4.0,0.0,4.0,4.0,1.0
+latitude-64__vision,Vision,Latitude 64,latitude-64,Control Driver,8.0,6.0,-1.0,2.0,1.0,1.0
+latitude-64__xxx,XXX,Latitude 64,latitude-64,Control Driver,7.0,3.0,0.0,4.0,4.0,1.0
+latitude-64__zion,Zion,Latitude 64,latitude-64,Control Driver,9.0,4.0,-0.5,3.0,2.5,1.0
+mvp-disc-sports__amp,Amp,MVP Disc Sports,mvp-disc-sports,Control Driver,8.0,5.0,-1.5,1.0,-0.5,1.0
+mvp-disc-sports__anode,Anode,MVP Disc Sports,mvp-disc-sports,Putt & Approach,2.5,3.0,0.0,0.5,0.5,1.0
+mvp-disc-sports__atom,Atom,MVP Disc Sports,mvp-disc-sports,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+mvp-disc-sports__axis,Axis,MVP Disc Sports,mvp-disc-sports,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+mvp-disc-sports__catalyst,Catalyst,MVP Disc Sports,mvp-disc-sports,Distance Driver,13.0,5.5,-2.0,2.0,0.0,1.0
+mvp-disc-sports__deflector,Deflector,MVP Disc Sports,mvp-disc-sports,Mid Range,5.0,3.5,0.0,4.0,4.0,1.0
+mvp-disc-sports__dimension,Dimension,MVP Disc Sports,mvp-disc-sports,Distance Driver,14.5,5.0,0.0,3.0,3.0,1.0
+mvp-disc-sports__energy,Energy,MVP Disc Sports,mvp-disc-sports,Distance Driver,13.0,4.0,0.0,4.0,4.0,1.0
+mvp-disc-sports__entropy,Entropy,MVP Disc Sports,mvp-disc-sports,Putt & Approach,4.0,3.0,0.0,3.0,3.0,1.0
+mvp-disc-sports__impulse,Impulse,MVP Disc Sports,mvp-disc-sports,Distance Driver,9.0,5.0,-3.0,1.0,-2.0,1.0
+mvp-disc-sports__inertia,Inertia,MVP Disc Sports,mvp-disc-sports,Distance Driver,9.0,5.0,-2.0,2.0,0.0,1.0
+mvp-disc-sports__ion,Ion,MVP Disc Sports,mvp-disc-sports,Putt & Approach,2.5,3.0,0.0,1.5,1.5,1.0
+mvp-disc-sports__limit,Limit,MVP Disc Sports,mvp-disc-sports,Distance Driver,14.5,3.5,0.0,4.0,4.0,1.0
+mvp-disc-sports__matrix,Matrix,MVP Disc Sports,mvp-disc-sports,Mid Range,5.0,4.0,-1.0,2.0,1.0,1.0
+mvp-disc-sports__motion,Motion,MVP Disc Sports,mvp-disc-sports,Distance Driver,9.0,3.5,0.0,4.0,4.0,1.0
+mvp-disc-sports__nitro,Nitro,MVP Disc Sports,mvp-disc-sports,Distance Driver,13.0,4.0,-0.5,3.0,2.5,1.0
+mvp-disc-sports__nomad,Nomad,MVP Disc Sports,mvp-disc-sports,Putt & Approach,2.0,4.0,0.0,1.5,1.5,1.0
+mvp-disc-sports__octane,Octane,MVP Disc Sports,mvp-disc-sports,Distance Driver,13.0,5.0,-1.0,2.0,1.0,1.0
+mvp-disc-sports__ohm,Ohm,MVP Disc Sports,mvp-disc-sports,Putt & Approach,2.0,5.0,0.0,1.0,1.0,1.0
+mvp-disc-sports__orbital,Orbital,MVP Disc Sports,mvp-disc-sports,Distance Driver,11.0,5.0,-4.5,1.0,-3.5,1.0
+mvp-disc-sports__particle,Particle,MVP Disc Sports,mvp-disc-sports,Putt & Approach,3.0,3.0,0.0,2.5,2.5,1.0
+mvp-disc-sports__phase,Phase,MVP Disc Sports,mvp-disc-sports,Distance Driver,11.0,3.5,0.0,4.0,4.0,1.0
+mvp-disc-sports__photon,Photon,MVP Disc Sports,mvp-disc-sports,Distance Driver,11.0,5.0,-1.0,2.5,1.5,1.0
+mvp-disc-sports__reactor,Reactor,MVP Disc Sports,mvp-disc-sports,Mid Range,5.0,5.0,-0.5,1.5,1.0,1.0
+mvp-disc-sports__relativity,Relativity,MVP Disc Sports,mvp-disc-sports,Distance Driver,14.5,5.5,-3.0,1.5,-1.5,1.0
+mvp-disc-sports__relay,Relay,MVP Disc Sports,mvp-disc-sports,Control Driver,6.0,5.0,-2.0,1.0,-1.0,1.0
+mvp-disc-sports__resistor,Resistor,MVP Disc Sports,mvp-disc-sports,Control Driver,6.5,4.0,0.0,3.5,3.5,1.0
+mvp-disc-sports__servo,Servo,MVP Disc Sports,mvp-disc-sports,Control Driver,6.5,5.0,-1.0,2.0,1.0,1.0
+mvp-disc-sports__shock,Shock,MVP Disc Sports,mvp-disc-sports,Control Driver,8.0,5.0,0.0,2.5,2.5,1.0
+mvp-disc-sports__signal,Signal,MVP Disc Sports,mvp-disc-sports,Control Driver,6.0,5.0,-3.0,1.0,-2.0,1.0
+mvp-disc-sports__spin,Spin,MVP Disc Sports,mvp-disc-sports,Putt & Approach,2.5,4.0,-2.0,0.0,-2.0,1.0
+mvp-disc-sports__switch,Switch,MVP Disc Sports,mvp-disc-sports,Control Driver,6.5,5.0,-1.5,1.0,-0.5,1.0
+mvp-disc-sports__tangent,Tangent,MVP Disc Sports,mvp-disc-sports,Mid Range,4.0,4.0,-0.5,0.5,0.0,1.0
+mvp-disc-sports__tensor,Tensor,MVP Disc Sports,mvp-disc-sports,Mid Range,4.0,4.0,0.0,2.5,2.5,1.0
+mvp-disc-sports__tesla,Tesla,MVP Disc Sports,mvp-disc-sports,Distance Driver,9.0,5.0,-1.0,2.0,1.0,1.0
+mvp-disc-sports__vector,Vector,MVP Disc Sports,mvp-disc-sports,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+mvp-disc-sports__vertex,Vertex,MVP Disc Sports,mvp-disc-sports,Mid Range,4.0,4.0,-2.0,0.5,-1.5,1.0
+mvp-disc-sports__volt,Volt,MVP Disc Sports,mvp-disc-sports,Control Driver,8.0,5.0,-0.5,2.0,1.5,1.0
+mvp-disc-sports__wave,Wave,MVP Disc Sports,mvp-disc-sports,Distance Driver,11.0,5.0,-2.0,2.0,0.0,1.0
+mint-discs__alpha,Alpha,Mint Discs,mint-discs,Control Driver,8.0,4.0,0.0,2.0,2.0,1.0
+mint-discs__bobcat,Bobcat,Mint Discs,mint-discs,Mid Range,5.0,4.0,0.0,2.5,2.5,1.0
+mint-discs__bullet,Bullet,Mint Discs,mint-discs,Putt & Approach,2.0,4.0,0.0,1.0,1.0,1.0
+mint-discs__freetail,Freetail,Mint Discs,mint-discs,Distance Driver,10.0,5.0,-4.0,1.0,-3.0,1.0
+mint-discs__grackle,Grackle,Mint Discs,mint-discs,Control Driver,7.0,5.0,-1.0,2.0,1.0,1.0
+mint-discs__jackalope,Jackalope,Mint Discs,mint-discs,Control Driver,8.0,5.0,-2.0,1.0,-1.0,1.0
+mint-discs__longhorn,Longhorn,Mint Discs,mint-discs,Distance Driver,11.0,4.0,-1.0,3.0,2.0,1.0
+mint-discs__mustang,Mustang,Mint Discs,mint-discs,Mid Range,5.0,5.0,0.0,2.0,2.0,1.0
+mint-discs__phoenix,Phoenix,Mint Discs,mint-discs,Control Driver,9.0,3.0,0.0,4.0,4.0,1.0
+mint-discs__profit,Profit,Mint Discs,mint-discs,Putt & Approach,2.0,3.0,0.0,2.0,2.0,1.0
+prodigy-disc__a1,A1,Prodigy Disc,prodigy-disc,Putt & Approach,3.0,3.0,0.0,3.0,3.0,1.0
+prodigy-disc__a2,A2,Prodigy Disc,prodigy-disc,Putt & Approach,4.0,4.0,0.0,3.0,3.0,1.0
+prodigy-disc__a3,A3,Prodigy Disc,prodigy-disc,Putt & Approach,4.0,4.0,0.0,3.0,3.0,1.0
+prodigy-disc__a4,A4,Prodigy Disc,prodigy-disc,Putt & Approach,4.0,4.0,-1.0,2.0,1.0,1.0
+prodigy-disc__d-model-os,D Model OS,Prodigy Disc,prodigy-disc,Distance Driver,13.0,5.0,0.0,4.0,4.0,1.0
+prodigy-disc__d-model-s,D Model S,Prodigy Disc,prodigy-disc,Distance Driver,13.0,6.0,0.0,2.0,2.0,1.0
+prodigy-disc__d-model-us,D Model US,Prodigy Disc,prodigy-disc,Distance Driver,13.0,6.0,-3.0,1.0,-2.0,1.0
+prodigy-disc__d1,D1,Prodigy Disc,prodigy-disc,Distance Driver,12.0,5.0,0.0,3.0,3.0,1.0
+prodigy-disc__d1-max,D1 Max,Prodigy Disc,prodigy-disc,Distance Driver,12.0,5.0,0.0,3.0,3.0,1.0
+prodigy-disc__d2,D2,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-1.0,3.0,2.0,1.0
+prodigy-disc__d2-max,D2 Max,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-1.0,3.0,2.0,1.0
+prodigy-disc__d3,D3,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-2.0,2.0,0.0,1.0
+prodigy-disc__d3-max,D3 Max,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-3.0,1.5,-1.5,1.0
+prodigy-disc__d4,D4,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-3.0,2.0,-1.0,1.0
+prodigy-disc__d4-max,D4 Max,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-4.0,1.0,-3.0,1.0
+prodigy-disc__d5,D5,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-4.0,2.0,-2.0,1.0
+prodigy-disc__d6,D6,Prodigy Disc,prodigy-disc,Distance Driver,12.0,6.0,-4.0,1.0,-3.0,1.0
+prodigy-disc__f-model-os,F Model OS,Prodigy Disc,prodigy-disc,Control Driver,10.0,5.0,2.0,4.0,6.0,1.0
+prodigy-disc__f-model-s,F Model S,Prodigy Disc,prodigy-disc,Control Driver,10.0,5.0,1.0,3.0,4.0,1.0
+prodigy-disc__f-model-us,F Model US,Prodigy Disc,prodigy-disc,Control Driver,10.0,5.0,-2.0,1.0,-1.0,1.0
+prodigy-disc__f1,F1,Prodigy Disc,prodigy-disc,Control Driver,7.0,4.0,0.0,3.0,3.0,1.0
+prodigy-disc__f2,F2,Prodigy Disc,prodigy-disc,Control Driver,7.0,5.0,-1.0,3.0,2.0,1.0
+prodigy-disc__f3,F3,Prodigy Disc,prodigy-disc,Control Driver,7.0,5.0,-1.0,2.0,1.0,1.0
+prodigy-disc__f5,F5,Prodigy Disc,prodigy-disc,Control Driver,7.0,5.0,-2.0,1.0,-1.0,1.0
+prodigy-disc__f7,F7,Prodigy Disc,prodigy-disc,Control Driver,7.0,5.0,-3.0,1.0,-2.0,1.0
+prodigy-disc__fx-2,FX-2,Prodigy Disc,prodigy-disc,Control Driver,9.0,4.0,-1.0,3.0,2.0,1.0
+prodigy-disc__h1,H1,Prodigy Disc,prodigy-disc,Control Driver,10.0,3.0,0.0,3.5,3.5,1.0
+prodigy-disc__h1-v2,H1 V2,Prodigy Disc,prodigy-disc,Control Driver,11.0,4.0,0.0,3.0,3.0,1.0
+prodigy-disc__h2,H2,Prodigy Disc,prodigy-disc,Control Driver,9.0,5.0,0.0,2.0,2.0,1.0
+prodigy-disc__h2-v2,H2 V2,Prodigy Disc,prodigy-disc,Control Driver,11.0,5.0,0.0,2.5,2.5,1.0
+prodigy-disc__h3,H3,Prodigy Disc,prodigy-disc,Control Driver,9.0,4.0,0.0,2.0,2.0,1.0
+prodigy-disc__h3-v2,H3 V2,Prodigy Disc,prodigy-disc,Control Driver,11.0,5.0,-1.0,2.0,1.0,1.0
+prodigy-disc__h4,H4,Prodigy Disc,prodigy-disc,Control Driver,9.0,5.0,-2.0,1.5,-0.5,1.0
+prodigy-disc__h4-v2,H4 V2,Prodigy Disc,prodigy-disc,Control Driver,10.0,5.0,-2.0,1.5,-0.5,1.0
+prodigy-disc__h5,H5,Prodigy Disc,prodigy-disc,Control Driver,9.0,5.0,-3.0,1.0,-2.0,1.0
+prodigy-disc__m-model-os,M Model OS,Prodigy Disc,prodigy-disc,Mid Range,6.0,4.0,-1.0,3.0,2.0,1.0
+prodigy-disc__m-model-s,M Model S,Prodigy Disc,prodigy-disc,Mid Range,6.0,4.0,0.0,3.0,3.0,1.0
+prodigy-disc__m-model-us,M Model US,Prodigy Disc,prodigy-disc,Mid Range,4.0,5.0,-1.0,1.0,0.0,1.0
+prodigy-disc__m1,M1,Prodigy Disc,prodigy-disc,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+prodigy-disc__m2,M2,Prodigy Disc,prodigy-disc,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+prodigy-disc__m3,M3,Prodigy Disc,prodigy-disc,Mid Range,5.0,5.0,-1.0,2.0,1.0,1.0
+prodigy-disc__m4,M4,Prodigy Disc,prodigy-disc,Mid Range,5.0,5.0,-1.0,1.0,0.0,1.0
+prodigy-disc__m5,M5,Prodigy Disc,prodigy-disc,Mid Range,5.0,5.0,-3.0,1.0,-2.0,1.0
+prodigy-disc__mx-3,MX-3,Prodigy Disc,prodigy-disc,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+prodigy-disc__p-model-us,P Model US,Prodigy Disc,prodigy-disc,Putt & Approach,3.0,5.0,-1.0,1.0,0.0,1.0
+prodigy-disc__pa-1,PA-1,Prodigy Disc,prodigy-disc,Putt & Approach,3.0,3.0,0.0,2.0,2.0,1.0
+prodigy-disc__pa-2,PA-2,Prodigy Disc,prodigy-disc,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+prodigy-disc__pa-3,PA-3,Prodigy Disc,prodigy-disc,Putt & Approach,3.0,4.0,0.0,1.0,1.0,1.0
+prodigy-disc__pa-4,PA-4,Prodigy Disc,prodigy-disc,Putt & Approach,3.0,3.0,-1.0,1.0,0.0,1.0
+prodigy-disc__x1,X1,Prodigy Disc,prodigy-disc,Distance Driver,13.0,3.0,0.0,5.0,5.0,1.0
+prodigy-disc__x2,X2,Prodigy Disc,prodigy-disc,Distance Driver,13.0,4.0,0.0,4.0,4.0,1.0
+prodigy-disc__x3,X3,Prodigy Disc,prodigy-disc,Distance Driver,12.0,5.0,-1.0,2.0,1.0,1.0
+prodigy-disc__x4,X4,Prodigy Disc,prodigy-disc,Distance Driver,13.0,5.0,-2.5,2.0,-0.5,1.0
+prodigy-disc__x5,X5,Prodigy Disc,prodigy-disc,Distance Driver,13.0,5.0,-4.0,1.0,-3.0,1.0
+streamline-discs__drift,Drift,Streamline Discs,streamline-discs,Control Driver,7.0,5.0,-2.0,1.0,-1.0,1.0
+streamline-discs__echo,Echo,Streamline Discs,streamline-discs,Mid Range,5.0,5.0,-1.5,1.0,-0.5,1.0
+streamline-discs__flare,Flare,Streamline Discs,streamline-discs,Distance Driver,9.0,4.0,0.0,3.5,3.5,1.0
+streamline-discs__jet,Jet,Streamline Discs,streamline-discs,Distance Driver,11.0,5.0,-3.0,2.0,-1.0,1.0
+streamline-discs__lift,Lift,Streamline Discs,streamline-discs,Distance Driver,9.0,5.0,-2.0,1.5,-0.5,1.0
+streamline-discs__pilot,Pilot,Streamline Discs,streamline-discs,Putt & Approach,2.0,5.0,0.0,1.0,1.0,1.0
+streamline-discs__runway,Runway,Streamline Discs,streamline-discs,Mid Range,5.0,4.0,0.0,3.5,3.5,1.0
+streamline-discs__stabilizer,Stabilizer,Streamline Discs,streamline-discs,Putt & Approach,3.0,3.5,0.0,3.0,3.0,1.0
+streamline-discs__trace,Trace,Streamline Discs,streamline-discs,Distance Driver,11.0,5.0,-1.0,2.0,1.0,1.0
+westside-discs__adder,Adder,Westside Discs,westside-discs,Distance Driver,13.0,5.0,0.0,4.0,4.0,1.0
+westside-discs__ahti,Ahti,Westside Discs,westside-discs,Control Driver,9.0,3.0,0.0,4.0,4.0,1.0
+westside-discs__anvil,Anvil,Westside Discs,westside-discs,Mid Range,4.0,2.0,0.0,4.0,4.0,1.0
+westside-discs__bard,Bard,Westside Discs,westside-discs,Mid Range,5.0,4.0,0.0,3.0,3.0,1.0
+westside-discs__boatman,Boatman,Westside Discs,westside-discs,Distance Driver,11.0,5.0,0.0,2.0,2.0,1.0
+westside-discs__catapult,Catapult,Westside Discs,westside-discs,Distance Driver,14.0,4.0,-0.5,3.0,2.5,1.0
+westside-discs__crown,Crown,Westside Discs,westside-discs,Putt & Approach,3.0,4.0,0.0,1.0,1.0,1.0
+westside-discs__destiny,Destiny,Westside Discs,westside-discs,Distance Driver,14.0,6.0,-2.0,3.0,1.0,1.0
+westside-discs__fortress,Fortress,Westside Discs,westside-discs,Distance Driver,10.0,4.0,0.0,3.0,3.0,1.0
+westside-discs__gatekeeper,Gatekeeper,Westside Discs,westside-discs,Mid Range,4.0,5.0,0.0,2.0,2.0,1.0
+westside-discs__giant,Giant,Westside Discs,westside-discs,Distance Driver,13.0,4.0,0.0,3.5,3.5,1.0
+westside-discs__harp,Harp,Westside Discs,westside-discs,Putt & Approach,4.0,3.0,0.0,3.0,3.0,1.0
+westside-discs__hatchet,Hatchet,Westside Discs,westside-discs,Control Driver,9.0,6.0,-2.0,1.0,-1.0,1.0
+westside-discs__king,King,Westside Discs,westside-discs,Distance Driver,14.0,5.0,-1.5,3.0,1.5,1.0
+westside-discs__longbowman,Longbowman,Westside Discs,westside-discs,Control Driver,9.0,4.0,0.0,3.0,3.0,1.0
+westside-discs__maiden,Maiden,Westside Discs,westside-discs,Putt & Approach,3.0,4.0,0.0,1.0,1.0,1.0
+westside-discs__northman,Northman,Westside Discs,westside-discs,Distance Driver,10.0,5.0,-1.0,2.0,1.0,1.0
+westside-discs__pine,Pine,Westside Discs,westside-discs,Mid Range,5.0,4.0,0.0,2.0,2.0,1.0
+westside-discs__queen,Queen,Westside Discs,westside-discs,Distance Driver,14.0,5.0,-3.0,2.0,-1.0,1.0
+westside-discs__sampo,Sampo,Westside Discs,westside-discs,Distance Driver,10.0,4.0,-1.0,2.0,1.0,1.0
+westside-discs__seer,Seer,Westside Discs,westside-discs,Control Driver,7.0,5.0,-2.0,1.0,-1.0,1.0
+westside-discs__shield,Shield,Westside Discs,westside-discs,Putt & Approach,3.0,3.0,0.0,1.0,1.0,1.0
+westside-discs__sling,Sling,Westside Discs,westside-discs,Mid Range,5.0,5.0,0.0,1.0,1.0,1.0
+westside-discs__sorcerer,Sorcerer,Westside Discs,westside-discs,Distance Driver,13.0,5.0,-0.5,3.0,2.5,1.0
+westside-discs__stag,Stag,Westside Discs,westside-discs,Control Driver,8.0,6.0,-1.0,2.0,1.0,1.0
+westside-discs__swan,Swan,Westside Discs,westside-discs,Putt & Approach,3.0,3.0,-1.0,0.0,-1.0,1.0
+westside-discs__swan-1-reborn,Swan 1 Reborn,Westside Discs,westside-discs,Putt & Approach,3.0,3.0,-2.5,0.0,-2.5,1.0
+westside-discs__sword,Sword,Westside Discs,westside-discs,Distance Driver,12.0,5.0,-0.5,2.0,1.5,1.0
+westside-discs__tursas,Tursas,Westside Discs,westside-discs,Mid Range,5.0,5.0,-2.0,1.0,-1.0,1.0
+westside-discs__underworld,Underworld,Westside Discs,westside-discs,Control Driver,7.0,6.0,-3.0,1.0,-2.0,1.0
+westside-discs__war-horse,War Horse,Westside Discs,westside-discs,Distance Driver,13.0,4.0,0.0,4.0,4.0,1.0
+westside-discs__warship,Warship,Westside Discs,westside-discs,Mid Range,5.0,6.0,0.0,1.0,1.0,1.0
+westside-discs__world,World,Westside Discs,westside-discs,Distance Driver,14.0,4.0,-0.5,3.0,2.5,1.0

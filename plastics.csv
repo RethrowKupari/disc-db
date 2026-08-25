@@ -1,0 +1,236 @@
+plastic_id,manufacturer,manufacturer_slug,plastic_name,plastic_slug,plastic_category
+axiom-discs__cosmic-electron,Axiom Discs,axiom-discs,Cosmic Electron,cosmic-electron,baseline
+axiom-discs__cosmic-neutron,Axiom Discs,axiom-discs,Cosmic Neutron,cosmic-neutron,premium
+axiom-discs__cosmic-proton,Axiom Discs,axiom-discs,Cosmic Proton,cosmic-proton,premium
+axiom-discs__eclipse-2-0,Axiom Discs,axiom-discs,Eclipse 2.0,eclipse-2-0,glow
+axiom-discs__eclipse-r2,Axiom Discs,axiom-discs,Eclipse R2,eclipse-r2,glow
+axiom-discs__eclipse-soft,Axiom Discs,axiom-discs,Eclipse Soft,eclipse-soft,glow
+axiom-discs__electron,Axiom Discs,axiom-discs,Electron,electron,baseline
+axiom-discs__fission,Axiom Discs,axiom-discs,Fission,fission,premium
+axiom-discs__neutron,Axiom Discs,axiom-discs,Neutron,neutron,premium
+axiom-discs__neutron-soft,Axiom Discs,axiom-discs,Neutron Soft,neutron-soft,premium
+axiom-discs__plasma,Axiom Discs,axiom-discs,Plasma,plasma,premium
+axiom-discs__proton,Axiom Discs,axiom-discs,Proton,proton,premium
+axiom-discs__r2-neutron,Axiom Discs,axiom-discs,R2 Neutron,r2-neutron,recycled
+clash-discs__hardy,Clash Discs,clash-discs,Hardy,hardy,base
+clash-discs__softy,Clash Discs,clash-discs,Softy,softy,base
+clash-discs__special-blend,Clash Discs,clash-discs,Special Blend,special-blend,premium
+clash-discs__steady,Clash Discs,clash-discs,Steady,steady,premium
+clash-discs__steady-ring,Clash Discs,clash-discs,Steady Ring,steady-ring,premium
+clash-discs__sunny,Clash Discs,clash-discs,Sunny,sunny,premium
+clash-discs__tone,Clash Discs,clash-discs,Tone,tone,premium
+discmania__active,Discmania,discmania,Active,active,baseline
+discmania__active-premium,Discmania,discmania,Active Premium,active-premium,premium
+discmania__active-premium-glow,Discmania,discmania,Active Premium Glow,active-premium-glow,glow
+discmania__active-soft,Discmania,discmania,Active Soft,active-soft,baseline
+discmania__c-line,Discmania,discmania,C-Line,c-line,premium
+discmania__c-line-glow,Discmania,discmania,C-Line Glow,c-line-glow,glow
+discmania__d-line-flex-1,Discmania,discmania,D-Line Flex 1,d-line-flex-1,baseline
+discmania__d-line-flex-2,Discmania,discmania,D-Line Flex 2,d-line-flex-2,baseline
+discmania__d-line-flex-3,Discmania,discmania,D-Line Flex 3,d-line-flex-3,baseline
+discmania__exo-hard,Discmania,discmania,Exo Hard,exo-hard,baseline
+discmania__exo-soft,Discmania,discmania,Exo Soft,exo-soft,baseline
+discmania__geo,Discmania,discmania,Geo,geo,baseline
+discmania__glow,Discmania,discmania,Glow,glow,glow
+discmania__glow-lux,Discmania,discmania,Glow Lux,glow-lux,glow
+discmania__lux,Discmania,discmania,Lux,lux,premium
+discmania__lux-vapor,Discmania,discmania,Lux Vapor,lux-vapor,premium
+discmania__meta,Discmania,discmania,Meta,meta,premium
+discmania__neo,Discmania,discmania,Neo,neo,premium
+discmania__s-line,Discmania,discmania,S-Line,s-line,premium
+discmania__s-line-glow,Discmania,discmania,S-Line Glow,s-line-glow,glow
+discmania__s-line-swirl,Discmania,discmania,S-Line Swirl,s-line-swirl,premium
+discraft__big-z,Discraft,discraft,Big Z,big-z,premium
+discraft__cryztal,Discraft,discraft,CryZtal,cryztal,premium
+discraft__cryztal-flx,Discraft,discraft,CryZtal FLX,cryztal-flx,premium
+discraft__esp,Discraft,discraft,ESP,esp,premium
+discraft__esp-flx,Discraft,discraft,ESP FLX,esp-flx,premium
+discraft__glow-z-esp-glo,Discraft,discraft,Glow Z / ESP Glo,glow-z-esp-glo,glow
+discraft__jawbreaker,Discraft,discraft,Jawbreaker,jawbreaker,baseline
+discraft__jawbreaker-z-flx,Discraft,discraft,Jawbreaker Z FLX,jawbreaker-z-flx,premium
+discraft__pro-d,Discraft,discraft,Pro-D,pro-d,baseline
+discraft__soft-pro-d,Discraft,discraft,Soft Pro-D,soft-pro-d,baseline
+discraft__soft-x,Discraft,discraft,Soft X,soft-x,baseline
+discraft__soft-x-line,Discraft,discraft,Soft X Line,soft-x-line,baseline
+discraft__sparkle-z-sparkle-esp,Discraft,discraft,Sparkle Z / Sparkle ESP,sparkle-z-sparkle-esp,premium
+discraft__titanium-ti,Discraft,discraft,Titanium (Ti),titanium-ti,premium
+discraft__x-line,Discraft,discraft,X Line,x-line,baseline
+discraft__z-flx,Discraft,discraft,Z FLX,z-flx,premium
+discraft__z-line,Discraft,discraft,Z Line,z-line,premium
+dynamic-discs__biofuzion,Dynamic Discs,dynamic-discs,BioFuzion,biofuzion,recycled
+dynamic-discs__classic,Dynamic Discs,dynamic-discs,Classic,classic,baseline
+dynamic-discs__classic-blend,Dynamic Discs,dynamic-discs,Classic Blend,classic-blend,baseline
+dynamic-discs__classic-hard,Dynamic Discs,dynamic-discs,Classic Hard,classic-hard,baseline
+dynamic-discs__classic-soft,Dynamic Discs,dynamic-discs,Classic Soft,classic-soft,baseline
+dynamic-discs__classic-supersoft,Dynamic Discs,dynamic-discs,Classic SuperSoft,classic-supersoft,baseline
+dynamic-discs__fluid,Dynamic Discs,dynamic-discs,Fluid,fluid,specialty
+dynamic-discs__fuzion,Dynamic Discs,dynamic-discs,Fuzion,fuzion,premium
+dynamic-discs__fuzion-burst,Dynamic Discs,dynamic-discs,Fuzion Burst,fuzion-burst,premium
+dynamic-discs__fuzion-orbit,Dynamic Discs,dynamic-discs,Fuzion Orbit,fuzion-orbit,premium
+dynamic-discs__fuzion-x,Dynamic Discs,dynamic-discs,Fuzion-X,fuzion-x,premium
+dynamic-discs__hybrid,Dynamic Discs,dynamic-discs,Hybrid,hybrid,premium
+dynamic-discs__lucid,Dynamic Discs,dynamic-discs,Lucid,lucid,premium
+dynamic-discs__lucid-air,Dynamic Discs,dynamic-discs,Lucid Air,lucid-air,premium
+dynamic-discs__lucid-ice,Dynamic Discs,dynamic-discs,Lucid Ice,lucid-ice,premium
+dynamic-discs__lucid-moonshine,Dynamic Discs,dynamic-discs,Lucid Moonshine,lucid-moonshine,glow
+dynamic-discs__lucid-x,Dynamic Discs,dynamic-discs,Lucid-X,lucid-x,premium
+dynamic-discs__moonshine,Dynamic Discs,dynamic-discs,Moonshine,moonshine,glow
+dynamic-discs__prime,Dynamic Discs,dynamic-discs,Prime,prime,baseline
+dynamic-discs__prime-burst,Dynamic Discs,dynamic-discs,Prime Burst,prime-burst,baseline
+dynamic-discs__prime-moonshine,Dynamic Discs,dynamic-discs,Prime Moonshine,prime-moonshine,glow
+,Gateway,gateway,$$$,,baseline
+gateway__chalk,Gateway,gateway,Chalk,chalk,baseline
+gateway__d-glow,Gateway,gateway,D-Glow,d-glow,glow
+gateway__diamond,Gateway,gateway,Diamond,diamond,premium
+gateway__eraser,Gateway,gateway,Eraser,eraser,baseline
+gateway__evolution-diamond,Gateway,gateway,Evolution Diamond,evolution-diamond,premium
+gateway__evolution-platinum,Gateway,gateway,Evolution Platinum,evolution-platinum,premium
+gateway__firm,Gateway,gateway,Firm,firm,baseline
+gateway__hemp,Gateway,gateway,Hemp,hemp,specialty
+gateway__lunar,Gateway,gateway,Lunar,lunar,baseline
+gateway__money,Gateway,gateway,Money,money,baseline
+gateway__nxt,Gateway,gateway,NXT,nxt,premium
+gateway__nxt-lite,Gateway,gateway,NXT Lite,nxt-lite,premium
+gateway__organic,Gateway,gateway,Organic,organic,baseline
+gateway__platinum,Gateway,gateway,Platinum,platinum,premium
+gateway__pure-white,Gateway,gateway,Pure White,pure-white,baseline
+gateway__special-blend,Gateway,gateway,Special Blend,special-blend,baseline
+gateway__super-soft,Gateway,gateway,Super Soft,super-soft,baseline
+gateway__super-stupid-silly-soft,Gateway,gateway,Super Stupid Silly Soft,super-stupid-silly-soft,baseline
+gateway__super-stupid-soft,Gateway,gateway,Super Stupid Soft,super-stupid-soft,baseline
+gateway__superglow,Gateway,gateway,Superglow,superglow,glow
+infinite-discs__c-blend,Infinite Discs,infinite-discs,C Blend,c-blend,premium
+infinite-discs__c-blend-x-out,Infinite Discs,infinite-discs,C-Blend X-Out,c-blend-x-out,premium
+infinite-discs__d-blend,Infinite Discs,infinite-discs,D Blend,d-blend,baseline
+infinite-discs__d-blend-glow,Infinite Discs,infinite-discs,D-Blend Glow,d-blend-glow,glow
+infinite-discs__g-blend,Infinite Discs,infinite-discs,G Blend,g-blend,premium
+infinite-discs__g-blend-x-out,Infinite Discs,infinite-discs,G-Blend X-Out,g-blend-x-out,premium
+infinite-discs__glow-c-blend,Infinite Discs,infinite-discs,Glow C Blend,glow-c-blend,glow
+infinite-discs__gummy-c-blend,Infinite Discs,infinite-discs,Gummy C-Blend,gummy-c-blend,premium
+infinite-discs__halo-s-blend,Infinite Discs,infinite-discs,Halo S-Blend,halo-s-blend,premium
+infinite-discs__i-blend,Infinite Discs,infinite-discs,I Blend,i-blend,midgrade
+infinite-discs__luster-c-blend,Infinite Discs,infinite-discs,Luster C-Blend,luster-c-blend,premium
+infinite-discs__p-blend,Infinite Discs,infinite-discs,P Blend,p-blend,baseline
+infinite-discs__s-blend,Infinite Discs,infinite-discs,S Blend,s-blend,premium
+infinite-discs__splatter-s-blend,Infinite Discs,infinite-discs,Splatter S-Blend,splatter-s-blend,premium
+infinite-discs__x-blend,Infinite Discs,infinite-discs,X Blend,x-blend,specialty
+innova__blizzard-champion,Innova,innova,Blizzard Champion,blizzard-champion,premium
+innova__champion,Innova,innova,Champion,champion,premium
+innova__champion-glow,Innova,innova,Champion Glow,champion-glow,glow
+innova__colored-champion-glow,Innova,innova,Colored Champion Glow,colored-champion-glow,glow
+innova__dx,Innova,innova,DX,dx,baseline
+innova__dx-glow,Innova,innova,DX Glow,dx-glow,glow
+innova__echostar,Innova,innova,EchoStar,echostar,recycled
+innova__gstar,Innova,innova,GStar,gstar,premium
+innova__gummy-champion,Innova,innova,Gummy Champion,gummy-champion,premium
+innova__halo,Innova,innova,Halo,halo,premium
+innova__jk-pro,Innova,innova,JK Pro,jk-pro,baseline
+innova__kc-pro,Innova,innova,KC Pro,kc-pro,baseline
+innova__metal-flake,Innova,innova,Metal Flake,metal-flake,premium
+innova__nexus,Innova,innova,Nexus,nexus,baseline
+innova__pro,Innova,innova,Pro,pro,baseline
+innova__r-pro,Innova,innova,R-Pro,r-pro,baseline
+innova__shimmer-star,Innova,innova,Shimmer Star,shimmer-star,premium
+innova__star,Innova,innova,Star,star,premium
+innova__starlite,Innova,innova,StarLite,starlite,premium
+innova__xt,Innova,innova,XT,xt,midgrade
+kastaplast__k1-glow,Kastaplast,kastaplast,K1 Glow,k1-glow,glow
+kastaplast__k1-hard,Kastaplast,kastaplast,K1 Hard,k1-hard,premium
+kastaplast__k1-recycled,Kastaplast,kastaplast,K1 Recycled,k1-recycled,recycled
+kastaplast__k1-regrind,Kastaplast,kastaplast,K1 Regrind,k1-regrind,recycled
+kastaplast__k1-soft,Kastaplast,kastaplast,K1 Soft,k1-soft,premium
+kastaplast__k2,Kastaplast,kastaplast,K2,k2,premium
+kastaplast__k3-hard,Kastaplast,kastaplast,K3 Hard,k3-hard,baseline
+kastaplast__k3-soft,Kastaplast,kastaplast,K3 Soft,k3-soft,baseline
+kastaplast__k4,Kastaplast,kastaplast,K4,k4,midgrade
+latitude-64__frost-line,Latitude 64,latitude-64,Frost Line,frost-line,specialty
+latitude-64__gold-line,Latitude 64,latitude-64,Gold Line,gold-line,premium
+latitude-64__gold-orbit,Latitude 64,latitude-64,Gold Orbit,gold-orbit,premium
+latitude-64__gold-x,Latitude 64,latitude-64,Gold-X,gold-x,premium
+latitude-64__hybrid,Latitude 64,latitude-64,Hybrid,hybrid,premium
+latitude-64__moonshine,Latitude 64,latitude-64,Moonshine,moonshine,glow
+latitude-64__opto,Latitude 64,latitude-64,Opto,opto,premium
+latitude-64__opto-air,Latitude 64,latitude-64,Opto Air,opto-air,premium
+latitude-64__opto-ice,Latitude 64,latitude-64,Opto Ice,opto-ice,premium
+latitude-64__opto-moonshine,Latitude 64,latitude-64,Opto Moonshine,opto-moonshine,glow
+latitude-64__opto-x,Latitude 64,latitude-64,Opto-X,opto-x,premium
+latitude-64__recycled,Latitude 64,latitude-64,Recycled,recycled,recycled
+latitude-64__retro,Latitude 64,latitude-64,Retro,retro,baseline
+latitude-64__royal,Latitude 64,latitude-64,Royal,royal,premium
+latitude-64__zero-burst,Latitude 64,latitude-64,Zero Burst,zero-burst,baseline
+latitude-64__zero-hard,Latitude 64,latitude-64,Zero Hard,zero-hard,baseline
+latitude-64__zero-medium,Latitude 64,latitude-64,Zero Medium,zero-medium,baseline
+latitude-64__zero-megasoft,Latitude 64,latitude-64,Zero Megasoft,zero-megasoft,baseline
+latitude-64__zero-soft,Latitude 64,latitude-64,Zero Soft,zero-soft,baseline
+mvp-disc-sports__cosmic-electron,MVP Disc Sports,mvp-disc-sports,Cosmic Electron,cosmic-electron,baseline
+mvp-disc-sports__cosmic-neutron,MVP Disc Sports,mvp-disc-sports,Cosmic Neutron,cosmic-neutron,premium
+mvp-disc-sports__cosmic-proton,MVP Disc Sports,mvp-disc-sports,Cosmic Proton,cosmic-proton,premium
+mvp-disc-sports__eclipse-2-0,MVP Disc Sports,mvp-disc-sports,Eclipse 2.0,eclipse-2-0,glow
+mvp-disc-sports__eclipse-r2,MVP Disc Sports,mvp-disc-sports,Eclipse R2,eclipse-r2,glow
+mvp-disc-sports__eclipse-soft,MVP Disc Sports,mvp-disc-sports,Eclipse Soft,eclipse-soft,glow
+mvp-disc-sports__electron,MVP Disc Sports,mvp-disc-sports,Electron,electron,baseline
+mvp-disc-sports__electron-firm,MVP Disc Sports,mvp-disc-sports,Electron Firm,electron-firm,baseline
+mvp-disc-sports__electron-soft,MVP Disc Sports,mvp-disc-sports,Electron Soft,electron-soft,baseline
+mvp-disc-sports__fission,MVP Disc Sports,mvp-disc-sports,Fission,fission,premium
+mvp-disc-sports__neutron,MVP Disc Sports,mvp-disc-sports,Neutron,neutron,premium
+mvp-disc-sports__neutron-soft,MVP Disc Sports,mvp-disc-sports,Neutron Soft,neutron-soft,premium
+mvp-disc-sports__plasma,MVP Disc Sports,mvp-disc-sports,Plasma,plasma,premium
+mvp-disc-sports__proton,MVP Disc Sports,mvp-disc-sports,Proton,proton,premium
+mvp-disc-sports__r2-neutron,MVP Disc Sports,mvp-disc-sports,R2 Neutron,r2-neutron,recycled
+mint-discs__apex-plastic,Mint Discs,mint-discs,Apex Plastic,apex-plastic,premium
+mint-discs__eternal-plastic,Mint Discs,mint-discs,Eternal Plastic,eternal-plastic,premium
+mint-discs__nocturnal-glow-plastic,Mint Discs,mint-discs,Nocturnal Glow Plastic,nocturnal-glow-plastic,glow
+mint-discs__royal-plastic,Mint Discs,mint-discs,Royal Plastic,royal-plastic,baseline
+mint-discs__sublime-plastic,Mint Discs,mint-discs,Sublime Plastic,sublime-plastic,premium
+prodigy-disc__200-plastic,Prodigy Disc,prodigy-disc,200 Plastic,200-plastic,baseline
+prodigy-disc__300-plastic,Prodigy Disc,prodigy-disc,300 Plastic,300-plastic,baseline
+prodigy-disc__300s,Prodigy Disc,prodigy-disc,300S,300s,baseline
+prodigy-disc__350g-plastic,Prodigy Disc,prodigy-disc,350G Plastic,350g-plastic,baseline
+prodigy-disc__350rx,Prodigy Disc,prodigy-disc,350RX,350rx,baseline
+prodigy-disc__400-plastic,Prodigy Disc,prodigy-disc,400 Plastic,400-plastic,premium
+prodigy-disc__400g-plastic,Prodigy Disc,prodigy-disc,400G Plastic,400g-plastic,premium
+prodigy-disc__400s,Prodigy Disc,prodigy-disc,400S,400s,premium
+prodigy-disc__450,Prodigy Disc,prodigy-disc,450,450,premium
+prodigy-disc__500-plastic,Prodigy Disc,prodigy-disc,500 Plastic,500-plastic,premium
+prodigy-disc__750-plastic,Prodigy Disc,prodigy-disc,750 Plastic,750-plastic,premium
+prodigy-disc__750g-plastic,Prodigy Disc,prodigy-disc,750G Plastic,750g-plastic,premium
+prodigy-disc__air-plastic,Prodigy Disc,prodigy-disc,Air Plastic,air-plastic,premium
+prodigy-disc__basegrip,Prodigy Disc,prodigy-disc,BaseGrip,basegrip,baseline
+prodigy-disc__duraflex,Prodigy Disc,prodigy-disc,DuraFlex,duraflex,premium
+prodigy-disc__duraflex-glow,Prodigy Disc,prodigy-disc,DuraFlex Glow,duraflex-glow,glow
+prodigy-disc__fx-series,Prodigy Disc,prodigy-disc,FX Series,fx-series,premium
+prodigy-disc__glow-plastic,Prodigy Disc,prodigy-disc,Glow Plastic,glow-plastic,glow
+prodigy-disc__spectrum-plastic,Prodigy Disc,prodigy-disc,Spectrum Plastic,spectrum-plastic,premium
+streamline-discs__cosmic-electron,Streamline Discs,streamline-discs,Cosmic Electron,cosmic-electron,baseline
+streamline-discs__cosmic-neutron,Streamline Discs,streamline-discs,Cosmic Neutron,cosmic-neutron,premium
+streamline-discs__cosmic-proton,Streamline Discs,streamline-discs,Cosmic Proton,cosmic-proton,premium
+streamline-discs__eclipse-2-0,Streamline Discs,streamline-discs,Eclipse 2.0,eclipse-2-0,glow
+streamline-discs__eclipse-r2,Streamline Discs,streamline-discs,Eclipse R2,eclipse-r2,glow
+streamline-discs__eclipse-soft,Streamline Discs,streamline-discs,Eclipse Soft,eclipse-soft,glow
+streamline-discs__electron,Streamline Discs,streamline-discs,Electron,electron,baseline
+streamline-discs__electron-firm,Streamline Discs,streamline-discs,Electron Firm,electron-firm,baseline
+streamline-discs__electron-soft,Streamline Discs,streamline-discs,Electron Soft,electron-soft,baseline
+streamline-discs__fission,Streamline Discs,streamline-discs,Fission,fission,premium
+streamline-discs__neutron,Streamline Discs,streamline-discs,Neutron,neutron,premium
+streamline-discs__neutron-soft,Streamline Discs,streamline-discs,Neutron Soft,neutron-soft,premium
+streamline-discs__plasma,Streamline Discs,streamline-discs,Plasma,plasma,premium
+streamline-discs__proton,Streamline Discs,streamline-discs,Proton,proton,premium
+streamline-discs__r2-neutron,Streamline Discs,streamline-discs,R2 Neutron,r2-neutron,recycled
+westside-discs__bt-burst,Westside Discs,westside-discs,BT Burst,bt-burst,baseline
+westside-discs__bt-hard,Westside Discs,westside-discs,BT Hard,bt-hard,baseline
+westside-discs__bt-medium,Westside Discs,westside-discs,BT Medium,bt-medium,baseline
+westside-discs__bt-soft,Westside Discs,westside-discs,BT Soft,bt-soft,baseline
+westside-discs__elasto,Westside Discs,westside-discs,Elasto,elasto,specialty
+westside-discs__hybrid,Westside Discs,westside-discs,Hybrid,hybrid,premium
+westside-discs__megasoft,Westside Discs,westside-discs,Megasoft,megasoft,baseline
+westside-discs__moonshine,Westside Discs,westside-discs,Moonshine,moonshine,glow
+westside-discs__origio,Westside Discs,westside-discs,Origio,origio,baseline
+westside-discs__recycled,Westside Discs,westside-discs,Recycled,recycled,recycled
+westside-discs__revive,Westside Discs,westside-discs,Revive,revive,premium
+westside-discs__tournament,Westside Discs,westside-discs,Tournament,tournament,premium
+westside-discs__tournament-orbit,Westside Discs,westside-discs,Tournament Orbit,tournament-orbit,premium
+westside-discs__tournament-x,Westside Discs,westside-discs,Tournament-X,tournament-x,premium
+westside-discs__vip,Westside Discs,westside-discs,VIP,vip,premium
+westside-discs__vip-air,Westside Discs,westside-discs,VIP Air,vip-air,premium
+westside-discs__vip-ice,Westside Discs,westside-discs,VIP Ice,vip-ice,premium
+westside-discs__vip-x,Westside Discs,westside-discs,VIP-X,vip-x,premium
