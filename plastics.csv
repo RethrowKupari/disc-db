@@ -12,8 +12,8 @@ axiom-discs__neutron-soft,Axiom Discs,axiom-discs,Neutron Soft,neutron-soft,prem
 axiom-discs__plasma,Axiom Discs,axiom-discs,Plasma,plasma,premium
 axiom-discs__proton,Axiom Discs,axiom-discs,Proton,proton,premium
 axiom-discs__r2-neutron,Axiom Discs,axiom-discs,R2 Neutron,r2-neutron,recycled
-clash-discs__hardy,Clash Discs,clash-discs,Hardy,hardy,base
-clash-discs__softy,Clash Discs,clash-discs,Softy,softy,base
+clash-discs__hardy,Clash Discs,clash-discs,Hardy,hardy,baseline
+clash-discs__softy,Clash Discs,clash-discs,Softy,softy,baseline
 clash-discs__special-blend,Clash Discs,clash-discs,Special Blend,special-blend,premium
 clash-discs__steady,Clash Discs,clash-discs,Steady,steady,premium
 clash-discs__steady-ring,Clash Discs,clash-discs,Steady Ring,steady-ring,premium
@@ -78,7 +78,6 @@ dynamic-discs__moonshine,Dynamic Discs,dynamic-discs,Moonshine,moonshine,glow
 dynamic-discs__prime,Dynamic Discs,dynamic-discs,Prime,prime,baseline
 dynamic-discs__prime-burst,Dynamic Discs,dynamic-discs,Prime Burst,prime-burst,baseline
 dynamic-discs__prime-moonshine,Dynamic Discs,dynamic-discs,Prime Moonshine,prime-moonshine,glow
-,Gateway,gateway,$$$,,baseline
 gateway__chalk,Gateway,gateway,Chalk,chalk,baseline
 gateway__d-glow,Gateway,gateway,D-Glow,d-glow,glow
 gateway__diamond,Gateway,gateway,Diamond,diamond,premium
@@ -156,7 +155,9 @@ latitude-64__opto-moonshine,Latitude 64,latitude-64,Opto Moonshine,opto-moonshin
 latitude-64__opto-x,Latitude 64,latitude-64,Opto-X,opto-x,premium
 latitude-64__recycled,Latitude 64,latitude-64,Recycled,recycled,recycled
 latitude-64__retro,Latitude 64,latitude-64,Retro,retro,baseline
-latitude-64__royal,Latitude 64,latitude-64,Royal,royal,premium
+latitude-64__royal-clear,Latitude 64,latitude-64,Royal Clear,royal-clear,premium
+latitude-64__royal,Latitude 64,latitude-64,Royal Grand,royal,premium
+latitude-64__royal-sense,Latitude 64,latitude-64,Royal Sense,royal-sense,premium
 latitude-64__zero-burst,Latitude 64,latitude-64,Zero Burst,zero-burst,baseline
 latitude-64__zero-hard,Latitude 64,latitude-64,Zero Hard,zero-hard,baseline
 latitude-64__zero-medium,Latitude 64,latitude-64,Zero Medium,zero-medium,baseline

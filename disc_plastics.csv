@@ -249,8 +249,8 @@ axiom-discs__wrath,Wrath,Axiom Discs,Control Driver,axiom-discs__neutron,Neutron
 axiom-discs__wrath,Wrath,Axiom Discs,Control Driver,axiom-discs__plasma,Plasma,premium,rule
 axiom-discs__wrath,Wrath,Axiom Discs,Control Driver,axiom-discs__proton,Proton,premium,rule
 axiom-discs__wrath,Wrath,Axiom Discs,Control Driver,axiom-discs__r2-neutron,R2 Neutron,recycled,rule
-clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__hardy,Hardy,base,rule
-clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__softy,Softy,base,rule
+clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__hardy,Hardy,baseline,rule
+clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__softy,Softy,baseline,rule
 clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__special-blend,Special Blend,premium,rule
 clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__steady,Steady,premium,rule
 clash-discs__berry,Berry,Clash Discs,Mid Range,clash-discs__steady-ring,Steady Ring,premium,rule
@@ -266,8 +266,8 @@ clash-discs__cookie,Cookie,Clash Discs,Control Driver,clash-discs__steady,Steady
 clash-discs__cookie,Cookie,Clash Discs,Control Driver,clash-discs__steady-ring,Steady Ring,premium,rule
 clash-discs__cookie,Cookie,Clash Discs,Control Driver,clash-discs__sunny,Sunny,premium,rule
 clash-discs__cookie,Cookie,Clash Discs,Control Driver,clash-discs__tone,Tone,premium,rule
-clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__hardy,Hardy,base,rule
-clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__softy,Softy,base,rule
+clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__hardy,Hardy,baseline,rule
+clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__softy,Softy,baseline,rule
 clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__special-blend,Special Blend,premium,rule
 clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__steady,Steady,premium,rule
 clash-discs__fudge,Fudge,Clash Discs,Putt & Approach,clash-discs__steady-ring,Steady Ring,premium,rule
@@ -283,22 +283,22 @@ clash-discs__lotus,Lotus,Clash Discs,Control Driver,clash-discs__steady,Steady,p
 clash-discs__lotus,Lotus,Clash Discs,Control Driver,clash-discs__steady-ring,Steady Ring,premium,rule
 clash-discs__lotus,Lotus,Clash Discs,Control Driver,clash-discs__sunny,Sunny,premium,rule
 clash-discs__lotus,Lotus,Clash Discs,Control Driver,clash-discs__tone,Tone,premium,rule
-clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__hardy,Hardy,base,rule
-clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__softy,Softy,base,rule
+clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__hardy,Hardy,baseline,rule
+clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__softy,Softy,baseline,rule
 clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__special-blend,Special Blend,premium,rule
 clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__steady,Steady,premium,rule
 clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__steady-ring,Steady Ring,premium,rule
 clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__sunny,Sunny,premium,rule
 clash-discs__mango,Mango,Clash Discs,Mid Range,clash-discs__tone,Tone,premium,rule
-clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__hardy,Hardy,base,rule
-clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__softy,Softy,base,rule
+clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__hardy,Hardy,baseline,rule
+clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__softy,Softy,baseline,rule
 clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__special-blend,Special Blend,premium,rule
 clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__steady,Steady,premium,rule
 clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__steady-ring,Steady Ring,premium,rule
 clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__sunny,Sunny,premium,rule
 clash-discs__mint,Mint,Clash Discs,Putt & Approach,clash-discs__tone,Tone,premium,rule
-clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__hardy,Hardy,base,rule
-clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__softy,Softy,base,rule
+clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__hardy,Hardy,baseline,rule
+clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__softy,Softy,baseline,rule
 clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__special-blend,Special Blend,premium,rule
 clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__steady,Steady,premium,rule
 clash-discs__peach,Peach,Clash Discs,Mid Range,clash-discs__steady-ring,Steady Ring,premium,rule
@@ -309,8 +309,8 @@ clash-discs__pepper,Pepper,Clash Discs,Distance Driver,clash-discs__steady,Stead
 clash-discs__pepper,Pepper,Clash Discs,Distance Driver,clash-discs__steady-ring,Steady Ring,premium,rule
 clash-discs__pepper,Pepper,Clash Discs,Distance Driver,clash-discs__sunny,Sunny,premium,rule
 clash-discs__pepper,Pepper,Clash Discs,Distance Driver,clash-discs__tone,Tone,premium,rule
-clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__hardy,Hardy,base,rule
-clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__softy,Softy,base,rule
+clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__hardy,Hardy,baseline,rule
+clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__softy,Softy,baseline,rule
 clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__special-blend,Special Blend,premium,rule
 clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__steady,Steady,premium,rule
 clash-discs__peppermint,Peppermint,Clash Discs,Putt & Approach,clash-discs__steady-ring,Steady Ring,premium,rule
@@ -2751,7 +2751,6 @@ dynamic-discs__witness,Witness,Dynamic Discs,Control Driver,dynamic-discs__moons
 dynamic-discs__witness,Witness,Dynamic Discs,Control Driver,dynamic-discs__prime,Prime,baseline,rule
 dynamic-discs__witness,Witness,Dynamic Discs,Control Driver,dynamic-discs__prime-burst,Prime Burst,baseline,rule
 dynamic-discs__witness,Witness,Dynamic Discs,Control Driver,dynamic-discs__prime-moonshine,Prime Moonshine,glow,rule
-gateway__apache,Apache,Gateway,Control Driver,,$$$,baseline,rule
 gateway__apache,Apache,Gateway,Control Driver,gateway__diamond,Diamond,premium,rule
 gateway__apache,Apache,Gateway,Control Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__apache,Apache,Gateway,Control Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2760,7 +2759,6 @@ gateway__apache,Apache,Gateway,Control Driver,gateway__nxt,NXT,premium,rule
 gateway__apache,Apache,Gateway,Control Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__apache,Apache,Gateway,Control Driver,gateway__platinum,Platinum,premium,rule
 gateway__apache,Apache,Gateway,Control Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__apex,Apex,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__apex,Apex,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__apex,Apex,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__apex,Apex,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2769,7 +2767,6 @@ gateway__apex,Apex,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__apex,Apex,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__apex,Apex,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__apex,Apex,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__assassin,Assassin,Gateway,Control Driver,,$$$,baseline,rule
 gateway__assassin,Assassin,Gateway,Control Driver,gateway__diamond,Diamond,premium,rule
 gateway__assassin,Assassin,Gateway,Control Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__assassin,Assassin,Gateway,Control Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2778,7 +2775,6 @@ gateway__assassin,Assassin,Gateway,Control Driver,gateway__nxt,NXT,premium,rule
 gateway__assassin,Assassin,Gateway,Control Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__assassin,Assassin,Gateway,Control Driver,gateway__platinum,Platinum,premium,rule
 gateway__assassin,Assassin,Gateway,Control Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__blade,Blade,Gateway,Control Driver,,$$$,baseline,rule
 gateway__blade,Blade,Gateway,Control Driver,gateway__diamond,Diamond,premium,rule
 gateway__blade,Blade,Gateway,Control Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__blade,Blade,Gateway,Control Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2787,7 +2783,6 @@ gateway__blade,Blade,Gateway,Control Driver,gateway__nxt,NXT,premium,rule
 gateway__blade,Blade,Gateway,Control Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__blade,Blade,Gateway,Control Driver,gateway__platinum,Platinum,premium,rule
 gateway__blade,Blade,Gateway,Control Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__blaze,Blaze,Gateway,Mid Range,,$$$,baseline,rule
 gateway__blaze,Blaze,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__blaze,Blaze,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__blaze,Blaze,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2796,7 +2791,6 @@ gateway__blaze,Blaze,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__blaze,Blaze,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__blaze,Blaze,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__blaze,Blaze,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__chief,Chief,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__chief,Chief,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__chief,Chief,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__chief,Chief,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -2817,7 +2811,6 @@ gateway__chief,Chief,Gateway,Putt & Approach,gateway__super-soft,Super Soft,base
 gateway__chief,Chief,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__chief,Chief,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__chief,Chief,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__chief-os,Chief OS,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -2838,7 +2831,6 @@ gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__super-soft,Super Sof
 gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__chief-os,Chief OS,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__demon,Demon,Gateway,Mid Range,,$$$,baseline,rule
 gateway__demon,Demon,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__demon,Demon,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__demon,Demon,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2847,7 +2839,6 @@ gateway__demon,Demon,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__demon,Demon,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__demon,Demon,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__demon,Demon,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -2868,7 +2859,6 @@ gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__super-soft,Super
 gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__devil-hawk,Devil Hawk,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__diablo,Diablo,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__diablo,Diablo,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__diablo,Diablo,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__diablo,Diablo,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2877,7 +2867,6 @@ gateway__diablo,Diablo,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__diablo,Diablo,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__diablo,Diablo,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__diablo,Diablo,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__element,Element,Gateway,Mid Range,,$$$,baseline,rule
 gateway__element,Element,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__element,Element,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__element,Element,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2886,7 +2875,6 @@ gateway__element,Element,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__element,Element,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__element,Element,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__element,Element,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__hybrid,Hybrid,Gateway,Control Driver,,$$$,baseline,rule
 gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__diamond,Diamond,premium,rule
 gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2895,7 +2883,6 @@ gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__nxt,NXT,premium,rule
 gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__platinum,Platinum,premium,rule
 gateway__hybrid,Hybrid,Gateway,Control Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__illusion,Illusion,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__illusion,Illusion,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__illusion,Illusion,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__illusion,Illusion,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2904,7 +2891,6 @@ gateway__illusion,Illusion,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__illusion,Illusion,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__illusion,Illusion,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__illusion,Illusion,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__journey,Journey,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__journey,Journey,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__journey,Journey,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__journey,Journey,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2913,7 +2899,6 @@ gateway__journey,Journey,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__journey,Journey,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__journey,Journey,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__journey,Journey,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__karma,Karma,Gateway,Mid Range,,$$$,baseline,rule
 gateway__karma,Karma,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__karma,Karma,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__karma,Karma,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2922,7 +2907,6 @@ gateway__karma,Karma,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__karma,Karma,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__karma,Karma,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__karma,Karma,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__magic,Magic,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__magic,Magic,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__magic,Magic,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__magic,Magic,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -2943,7 +2927,6 @@ gateway__magic,Magic,Gateway,Putt & Approach,gateway__super-soft,Super Soft,base
 gateway__magic,Magic,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__magic,Magic,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__magic,Magic,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__mystic,Mystic,Gateway,Mid Range,,$$$,baseline,rule
 gateway__mystic,Mystic,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__mystic,Mystic,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__mystic,Mystic,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2952,7 +2935,6 @@ gateway__mystic,Mystic,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__mystic,Mystic,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__mystic,Mystic,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__mystic,Mystic,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__ninja,Ninja,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__ninja,Ninja,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__ninja,Ninja,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__ninja,Ninja,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2961,7 +2943,6 @@ gateway__ninja,Ninja,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__ninja,Ninja,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__ninja,Ninja,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__ninja,Ninja,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__prophecy,Prophecy,Gateway,Mid Range,,$$$,baseline,rule
 gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2970,7 +2951,6 @@ gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__prophecy,Prophecy,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__rage,Rage,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__rage,Rage,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__rage,Rage,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__rage,Rage,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2979,7 +2959,6 @@ gateway__rage,Rage,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__rage,Rage,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__rage,Rage,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__rage,Rage,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__sabre,Sabre,Gateway,Control Driver,,$$$,baseline,rule
 gateway__sabre,Sabre,Gateway,Control Driver,gateway__diamond,Diamond,premium,rule
 gateway__sabre,Sabre,Gateway,Control Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__sabre,Sabre,Gateway,Control Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2988,7 +2967,6 @@ gateway__sabre,Sabre,Gateway,Control Driver,gateway__nxt,NXT,premium,rule
 gateway__sabre,Sabre,Gateway,Control Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__sabre,Sabre,Gateway,Control Driver,gateway__platinum,Platinum,premium,rule
 gateway__sabre,Sabre,Gateway,Control Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__samurai,Samurai,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__samurai,Samurai,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__samurai,Samurai,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__samurai,Samurai,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -2997,7 +2975,6 @@ gateway__samurai,Samurai,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__samurai,Samurai,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__samurai,Samurai,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__samurai,Samurai,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__scout,Scout,Gateway,Mid Range,,$$$,baseline,rule
 gateway__scout,Scout,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__scout,Scout,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__scout,Scout,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3006,7 +2983,6 @@ gateway__scout,Scout,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__scout,Scout,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__scout,Scout,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__scout,Scout,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__shaman,Shaman,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -3027,7 +3003,6 @@ gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__super-soft,Super Soft,ba
 gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__shaman,Shaman,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__siren,Siren,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__siren,Siren,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__siren,Siren,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__siren,Siren,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3036,7 +3011,6 @@ gateway__siren,Siren,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__siren,Siren,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__siren,Siren,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__siren,Siren,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__slayer,Slayer,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__slayer,Slayer,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__slayer,Slayer,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__slayer,Slayer,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3045,7 +3019,6 @@ gateway__slayer,Slayer,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__slayer,Slayer,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__slayer,Slayer,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__slayer,Slayer,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__spear,Spear,Gateway,Control Driver,,$$$,baseline,rule
 gateway__spear,Spear,Gateway,Control Driver,gateway__diamond,Diamond,premium,rule
 gateway__spear,Spear,Gateway,Control Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__spear,Spear,Gateway,Control Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3054,7 +3027,6 @@ gateway__spear,Spear,Gateway,Control Driver,gateway__nxt,NXT,premium,rule
 gateway__spear,Spear,Gateway,Control Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__spear,Spear,Gateway,Control Driver,gateway__platinum,Platinum,premium,rule
 gateway__spear,Spear,Gateway,Control Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__speed-demon,Speed Demon,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3063,7 +3035,6 @@ gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__nxt,NXT,premiu
 gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__speed-demon,Speed Demon,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__spirit,Spirit,Gateway,Distance Driver,,$$$,baseline,rule
 gateway__spirit,Spirit,Gateway,Distance Driver,gateway__diamond,Diamond,premium,rule
 gateway__spirit,Spirit,Gateway,Distance Driver,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__spirit,Spirit,Gateway,Distance Driver,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3072,7 +3043,6 @@ gateway__spirit,Spirit,Gateway,Distance Driver,gateway__nxt,NXT,premium,rule
 gateway__spirit,Spirit,Gateway,Distance Driver,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__spirit,Spirit,Gateway,Distance Driver,gateway__platinum,Platinum,premium,rule
 gateway__spirit,Spirit,Gateway,Distance Driver,gateway__special-blend,Special Blend,baseline,rule
-gateway__voodoo,Voodoo,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -3093,7 +3063,6 @@ gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__super-soft,Super Soft,ba
 gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__voodoo,Voodoo,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__warlock,Warlock,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -3114,7 +3083,6 @@ gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__super-soft,Super Soft,
 gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__warlock,Warlock,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__warrior,Warrior,Gateway,Mid Range,,$$$,baseline,rule
 gateway__warrior,Warrior,Gateway,Mid Range,gateway__diamond,Diamond,premium,rule
 gateway__warrior,Warrior,Gateway,Mid Range,gateway__evolution-diamond,Evolution Diamond,premium,rule
 gateway__warrior,Warrior,Gateway,Mid Range,gateway__evolution-platinum,Evolution Platinum,premium,rule
@@ -3123,7 +3091,6 @@ gateway__warrior,Warrior,Gateway,Mid Range,gateway__nxt,NXT,premium,rule
 gateway__warrior,Warrior,Gateway,Mid Range,gateway__nxt-lite,NXT Lite,premium,rule
 gateway__warrior,Warrior,Gateway,Mid Range,gateway__platinum,Platinum,premium,rule
 gateway__warrior,Warrior,Gateway,Mid Range,gateway__special-blend,Special Blend,baseline,rule
-gateway__warspear,Warspear,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -3144,7 +3111,6 @@ gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__super-soft,Super Sof
 gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__super-stupid-silly-soft,Super Stupid Silly Soft,baseline,rule
 gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__super-stupid-soft,Super Stupid Soft,baseline,rule
 gateway__warspear,Warspear,Gateway,Putt & Approach,gateway__superglow,Superglow,glow,rule
-gateway__wizard,Wizard,Gateway,Putt & Approach,,$$$,baseline,rule
 gateway__wizard,Wizard,Gateway,Putt & Approach,gateway__chalk,Chalk,baseline,rule
 gateway__wizard,Wizard,Gateway,Putt & Approach,gateway__d-glow,D-Glow,glow,rule
 gateway__wizard,Wizard,Gateway,Putt & Approach,gateway__diamond,Diamond,premium,rule
@@ -5777,7 +5743,9 @@ latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opt
 latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__anchor,Anchor,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5791,7 +5759,8 @@ latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__opto-moo
 latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__ballista,Ballista,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5805,7 +5774,8 @@ latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__
 latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__ballista-pro,Ballista Pro,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -5817,7 +5787,9 @@ latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__opto-moonshi
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__beetle,Beetle,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -5836,7 +5808,8 @@ latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__opto-moonshine
 latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__blitz,Blitz,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5850,7 +5823,8 @@ latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__opto-moonshine,O
 latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__bolt,Bolt,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5864,7 +5838,8 @@ latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__opto-moonshine,
 latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__bryce,Bryce,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -5876,7 +5851,9 @@ latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__opto-moons
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__caltrop,Caltrop,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -5893,7 +5870,9 @@ latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__opto-moonshine
 latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__claymore,Claymore,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -5905,7 +5884,9 @@ latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__opto-moonshine,O
 latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__compass,Compass,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -5917,7 +5898,9 @@ latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto Mo
 latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__core,Core,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5931,7 +5914,8 @@ latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__opto-moon
 latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__culverin,Culverin,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5945,7 +5929,8 @@ latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__opto-moons
 latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__cutlass,Cutlass,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -5957,7 +5942,9 @@ latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__opto-moonshi
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__dagger,Dagger,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -5976,7 +5963,8 @@ latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__opto-moonsh
 latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__diamond,Diamond,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -5990,7 +5978,8 @@ latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__opto-moon
 latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__explorer,Explorer,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6002,7 +5991,9 @@ latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__opto-moonshine
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__faith,Faith,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6021,7 +6012,8 @@ latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__opto-moon
 latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__falchion,Falchion,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6035,7 +6027,8 @@ latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__opto-moonshine,O
 latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__flow,Flow,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6047,7 +6040,9 @@ latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto Mo
 latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__fuji,Fuji,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6061,7 +6056,8 @@ latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__opto-moonshine,Op
 latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__fury,Fury,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6073,7 +6069,9 @@ latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto Mo
 latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__fuse,Fuse,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6085,7 +6083,9 @@ latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__opto-moo
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__gauntlet,Gauntlet,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6104,7 +6104,8 @@ latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__opto-m
 latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__gladiator,Gladiator,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6116,7 +6117,9 @@ latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto Mo
 latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__gobi,Gobi,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6130,7 +6133,8 @@ latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__opto-moonshine
 latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__grace,Grace,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6144,7 +6148,8 @@ latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__opto-moonshine,O
 latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__halo,Halo,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6158,7 +6163,8 @@ latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__opto-moonshine
 latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__havoc,Havoc,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6172,7 +6178,8 @@ latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__opto-moonshine,Op
 latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__jade,Jade,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6184,7 +6191,9 @@ latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__opto-moo
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__keystone,Keystone,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6203,7 +6212,8 @@ latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__opto-moonshi
 latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__knight,Knight,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6215,7 +6225,9 @@ latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__opto-moonshi
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__macana,Macana,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6232,7 +6244,9 @@ latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto Mo
 latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__mace,Mace,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6246,7 +6260,8 @@ latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__opto-moonshine,Op
 latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__maul,Maul,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6258,7 +6273,9 @@ latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opt
 latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__medius,Medius,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6270,7 +6287,9 @@ latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__opto-moonshine
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__mercy,Mercy,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6289,7 +6308,8 @@ latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__opto-moonshi
 latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__musket,Musket,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6301,7 +6321,9 @@ latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto Mo
 latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__pain,Pain,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6313,7 +6335,9 @@ latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto 
 latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__pearl,Pearl,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6327,7 +6351,8 @@ latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__opto-moonsh
 latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__pioneer,Pioneer,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6341,7 +6366,8 @@ latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__opto-moon
 latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__primitus,Primitus,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6353,7 +6379,9 @@ latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__opto-moonshine,O
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__pure,Pure,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6372,7 +6400,8 @@ latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__opto-moonshi
 latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__recoil,Recoil,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6386,7 +6415,8 @@ latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__opto-moonshine,O
 latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__riot,Riot,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6400,7 +6430,8 @@ latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__opto-moonshine,O
 latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__rive,Rive,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__river,River,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__river,River,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__river,River,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6414,7 +6445,8 @@ latitude-64__river,River,Latitude 64,Control Driver,latitude-64__opto-moonshine,
 latitude-64__river,River,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__river,River,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__river,River,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__river,River,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__river,River,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__river,River,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6428,7 +6460,8 @@ latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__opto-mo
 latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__river-pro,River Pro,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6440,7 +6473,9 @@ latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__opto-moonshine,O
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__ruby,Ruby,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6459,7 +6494,8 @@ latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__opto-moonshine,O
 latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__spz3,SPZ3,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6473,7 +6509,8 @@ latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__opto-moonshine,
 latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__saint,Saint,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6487,7 +6524,8 @@ latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__opto-mo
 latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__saint-pro,Saint Pro,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6501,7 +6539,8 @@ latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__opto-moo
 latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__sapphire,Sapphire,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6513,7 +6552,9 @@ latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__opto-moonshine
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__sarek,Sarek,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6532,7 +6573,8 @@ latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__opto-moonshi
 latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__scythe,Scythe,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6544,7 +6586,9 @@ latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__opto-moonshine
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__sinus,Sinus,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6563,7 +6607,8 @@ latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__opto-moonshine,
 latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__spark,Spark,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__gold-x,Gold-X,premium,rule
@@ -6575,7 +6620,9 @@ latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__opto-moonshine
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__retro,Retro,baseline,rule
-latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__royal,Royal,premium,rule
+latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__zero-burst,Zero Burst,baseline,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__zero-hard,Zero Hard,baseline,rule
 latitude-64__spike,Spike,Latitude 64,Putt & Approach,latitude-64__zero-medium,Zero Medium,baseline,rule
@@ -6594,7 +6641,8 @@ latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__opto-moo
 latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__stiletto,Stiletto,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6608,7 +6656,8 @@ latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__opto-moonsh
 latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__striker,Striker,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6622,7 +6671,8 @@ latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__opto-moonsh
 latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__trident,Trident,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__gold-orbit,Gold Orbit,premium,rule
 latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__gold-x,Gold-X,premium,rule
@@ -6634,7 +6684,9 @@ latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__opto-moonshine,Opto 
 latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__retro,Retro,baseline,rule
-latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__royal,Royal,premium,rule
+latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__royal,Royal Grand,premium,rule
+latitude-64__trust,Trust,Latitude 64,Mid Range,latitude-64__royal-sense,Royal Sense,premium,rule
 latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6648,7 +6700,8 @@ latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__opto-moons
 latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__villain,Villain,Latitude 64,Distance Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6662,7 +6715,8 @@ latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__opto-moonshin
 latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__vision,Vision,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6676,7 +6730,8 @@ latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__opto-moonshine,Opto
 latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__xxx,XXX,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__frost-line,Frost Line,specialty,rule
 latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__gold-line,Gold Line,premium,rule
 latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__gold-orbit,Gold Orbit,premium,rule
@@ -6690,7 +6745,8 @@ latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__opto-moonshine,Op
 latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__opto-x,Opto-X,premium,rule
 latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__recycled,Recycled,recycled,rule
 latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__retro,Retro,baseline,rule
-latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__royal,Royal,premium,rule
+latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__royal-clear,Royal Clear,premium,rule
+latitude-64__zion,Zion,Latitude 64,Control Driver,latitude-64__royal,Royal Grand,premium,rule
 mvp-disc-sports__amp,Amp,MVP Disc Sports,Control Driver,mvp-disc-sports__cosmic-electron,Cosmic Electron,baseline,rule
 mvp-disc-sports__amp,Amp,MVP Disc Sports,Control Driver,mvp-disc-sports__cosmic-neutron,Cosmic Neutron,premium,rule
 mvp-disc-sports__amp,Amp,MVP Disc Sports,Control Driver,mvp-disc-sports__cosmic-proton,Cosmic Proton,premium,rule

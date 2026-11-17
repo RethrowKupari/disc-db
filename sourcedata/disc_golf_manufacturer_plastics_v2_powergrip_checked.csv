@@ -1,0 +1,444 @@
+plastic_option_id,manufacturer,manufacturer_slug,plastic_name,plastic_slug,plastic_category,notes,source_basis,confidence,in_prior_disc_catalog
+mp_0001,Above Ground Level,above-ground-level,New / Original Alpine Plastic,new-original-alpine-plastic,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0002,Above Ground Level,above-ground-level,New / Original Polar Plastic,new-original-polar-plastic,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0003,Above Ground Level,above-ground-level,New / Original Woodland Plastic,new-original-woodland-plastic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0004,Above Ground Level,above-ground-level,Treeline,treeline,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0005,Alfa Discs,alfa-discs,Chrome Line,chrome-line,premium,,Trash Panda plastics guide,high,True
+mp_0006,Alfa Discs,alfa-discs,Copper Line,copper-line,baseline,,Trash Panda plastics guide,high,True
+mp_0007,Alfa Discs,alfa-discs,Crystal,crystal,premium,,Trash Panda plastics guide,high,True
+mp_0008,Alfa Discs,alfa-discs,Glow Line,glow-line,glow,,Trash Panda plastics guide,high,True
+mp_0009,AquaFlight Discs,aquaflight-discs,Aquaflight Standard,aquaflight-standard,baseline,Floating standard blend; lightweight and easy to throw.,Retailer product pages / DG Puttheads,high,True
+mp_0010,Axiom Discs,axiom-discs,Cosmic Electron,cosmic-electron,baseline,,Trash Panda plastics guide,high,True
+mp_0011,Axiom Discs,axiom-discs,Cosmic Neutron,cosmic-neutron,premium,,Trash Panda plastics guide,high,True
+mp_0012,Axiom Discs,axiom-discs,Cosmic Proton,cosmic-proton,premium,,Trash Panda plastics guide,high,True
+mp_0013,Axiom Discs,axiom-discs,Eclipse 2.0,eclipse-2-0,glow,,Trash Panda plastics guide,high,True
+mp_0014,Axiom Discs,axiom-discs,Eclipse R2,eclipse-r2,glow,,Trash Panda plastics guide,high,True
+mp_0015,Axiom Discs,axiom-discs,Eclipse Soft,eclipse-soft,glow,,Trash Panda plastics guide,high,True
+mp_0016,Axiom Discs,axiom-discs,Electron,electron,baseline,,Trash Panda plastics guide,high,True
+mp_0017,Axiom Discs,axiom-discs,Fission,fission,premium,,Trash Panda plastics guide,high,True
+mp_0018,Axiom Discs,axiom-discs,Neutron,neutron,premium,,Trash Panda plastics guide,high,True
+mp_0019,Axiom Discs,axiom-discs,Neutron Soft,neutron-soft,premium,,Trash Panda plastics guide,high,True
+mp_0020,Axiom Discs,axiom-discs,Plasma,plasma,premium,,Trash Panda plastics guide,high,True
+mp_0021,Axiom Discs,axiom-discs,Proton,proton,premium,,Trash Panda plastics guide,high,True
+mp_0022,Axiom Discs,axiom-discs,R2 Neutron,r2-neutron,recycled,,Trash Panda plastics guide,high,True
+mp_0023,Black Zombie Disc Golf,black-zombie-disc-golf,Diamond,diamond,premium,Gateway-made premium blend.,Gateway/Infinite retailer pages,high,True
+mp_0024,Black Zombie Disc Golf,black-zombie-disc-golf,Platinum,platinum,premium,Premium blend sold in Black Zombie runs.,Gateway/Infinite retailer pages,high,True
+mp_0025,Black Zombie Disc Golf,black-zombie-disc-golf,SS,ss,baseline,Gateway-made Super Soft style putter blend.,Gateway/Infinite retailer pages,high,True
+mp_0026,Black Zombie Disc Golf,black-zombie-disc-golf,SSSS,ssss,baseline,Very soft Gateway-made 4S-style putter blend.,Gateway/Infinite retailer pages,high,True
+mp_0027,Black Zombie Disc Golf,black-zombie-disc-golf,SSSSS,sssss,baseline,Ultra-soft 5S-style putter blend.,Gateway/Infinite retailer pages,high,True
+mp_0028,Black Zombie Disc Golf,black-zombie-disc-golf,Superglow,superglow,glow,Glow putter blend similar to Gateway Sure Grip Superglow.,Gateway/Infinite retailer pages,high,True
+mp_0029,CHING Sports,ching-sports,Juju Meso Plastic,juju-meso-plastic,baseline,,Second Flight / retailer catalog,medium,True
+mp_0030,CHING Sports,ching-sports,Juju Meso Soft Plastic,juju-meso-soft-plastic,baseline,,Second Flight / retailer catalog,medium,True
+mp_0031,CHING Sports,ching-sports,Juju Strato Plastic,juju-strato-plastic,baseline,,Second Flight / retailer catalog,medium,True
+mp_0032,CHING Sports,ching-sports,Juju Thermo Plastic,juju-thermo-plastic,premium,,Second Flight / retailer catalog,medium,True
+mp_0033,CHING Sports,ching-sports,Precision Meso Plastic,precision-meso-plastic,premium,,Second Flight / retailer catalog,medium,True
+mp_0034,CHING Sports,ching-sports,Precision Thermo Plastic,precision-thermo-plastic,premium,,Second Flight / retailer catalog,medium,True
+mp_0035,Clash Discs,clash-discs,Hardy,hardy,base,Baseline/grippy plastic referenced on Powergrip product pages.,https://powergrip.fi/tuote/stypopc/clash-discs-softy-popcorn,high,False
+mp_0036,Clash Discs,clash-discs,Softy,softy,base,Baseline/grippy plastic referenced on Powergrip product pages.,https://powergrip.fi/tuote/stypopc/clash-discs-softy-popcorn,high,False
+mp_0037,Clash Discs,clash-discs,Special Blend,special-blend,premium,Premium plastic referenced on Powergrip / Clash product pages.,https://powergrip.fi/tuote/speblotunp/clash-discs-special-blend-lotus-nate-perkins-tour-series,high,False
+mp_0038,Clash Discs,clash-discs,Steady,steady,premium,Premium plastic referenced on Powergrip product pages.,https://powergrip.fi/tuote/stedberr/clash-discs-steady-berry,high,False
+mp_0039,Clash Discs,clash-discs,Steady Ring,steady-ring,premium,Premium ring-effect plastic referenced on Powergrip product pages.,https://powergrip.fi/tuote/sterberr/clash-discs-steady-ring-berry,high,False
+mp_0040,Clash Discs,clash-discs,Sunny,sunny,premium,Stiffer premium blend than Steady.,https://powergrip.fi/tuote/sunberrsw/clash-discs-sunny-berry-scott-withers-tour-series,high,False
+mp_0041,Clash Discs,clash-discs,Tone,tone,premium,Premium plastic referenced on Powergrip product pages.,https://powergrip.fi/tuote/stypopc/clash-discs-softy-popcorn,medium,False
+mp_0042,Climo Disc Golf,climo-disc-golf,Major Line,major-line,premium,Premium opaque plastic blend with slight glossy finish.,https://powergrip.fi/tuote/majskyw1r/climo-disc-golf-major-line-skyway-first-run,high,False
+mp_0043,Climo Disc Golf,climo-disc-golf,Trophy Line,trophy-line,baseline,Baseline plastic blend with medium stiffness.,https://powergrip.fi/tuote/tryswclifpr/climo-disc-golf-trophy-line-cliff-prototype,high,False
+mp_0044,Climo Disc Golf,climo-disc-golf,Victory Line,victory-line,premium,Premium blend cited by Climo Disc Golf.,https://climodiscgolf.com/blogs/news/climo-disc-golf-plastic-a-winning-formula,high,False
+mp_0045,Crosslap Disc Golf Parks,crosslap-disc-golf-parks,Crosslap Platinum,crosslap-platinum,premium,Premium opaque blend.,Discount Disc Golf plastics guide,high,True
+mp_0046,DGA,dga,D Line,d-line,baseline,,DG Puttheads plastic comparison,high,True
+mp_0047,DGA,dga,Glow SP Line,glow-sp-line,glow,,DG Puttheads plastic comparison,high,True
+mp_0048,DGA,dga,Pro Line,pro-line,premium,,DG Puttheads plastic comparison,high,True
+mp_0049,DGA,dga,SP Line,sp-line,premium,,DG Puttheads plastic comparison,high,True
+mp_0050,Daredevil Discs,daredevil-discs,Caribou Plastic,caribou-plastic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0051,Daredevil Discs,daredevil-discs,Elk Plastic,elk-plastic,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0052,Daredevil Discs,daredevil-discs,Flex Performance,flex-performance,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0053,Daredevil Discs,daredevil-discs,Grip Performance,grip-performance,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0054,Daredevil Discs,daredevil-discs,High Performance,high-performance,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0055,Daredevil Discs,daredevil-discs,Mammoth Plastic,mammoth-plastic,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0056,Daredevil Discs,daredevil-discs,Moose Plastic,moose-plastic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0057,Daredevil Discs,daredevil-discs,Polar Plastic,polar-plastic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0058,Daredevil Discs,daredevil-discs,Sabretooth Plastic,sabretooth-plastic,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0059,Daredevil Discs,daredevil-discs,Walrus Plastic,walrus-plastic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,medium,True
+mp_0060,Disc Golf UK Ltd.,disc-golf-uk-ltd,Noble,noble,baseline,Baseline blend with a bit more grip than DX/Retro.,Infinite retailer pages,high,True
+mp_0061,Disc Golf UK Ltd.,disc-golf-uk-ltd,Safefly,safefly,specialty,"Very flexible, grippy blend that sticks on landing.",Infinite retailer pages,high,True
+mp_0062,Discmania,discmania,Active,active,baseline,,Trash Panda plastics guide,high,True
+mp_0063,Discmania,discmania,Active Premium,active-premium,premium,,Trash Panda plastics guide,high,True
+mp_0064,Discmania,discmania,Active Premium Glow,active-premium-glow,glow,,Trash Panda plastics guide,high,True
+mp_0065,Discmania,discmania,Active Soft,active-soft,baseline,,Trash Panda plastics guide,high,True
+mp_0066,Discmania,discmania,C-Line,c-line,premium,,Trash Panda plastics guide,high,True
+mp_0067,Discmania,discmania,C-Line Glow,c-line-glow,glow,,Trash Panda plastics guide,high,True
+mp_0068,Discmania,discmania,D-Line Flex 1,d-line-flex-1,baseline,,Trash Panda plastics guide,high,True
+mp_0069,Discmania,discmania,D-Line Flex 2,d-line-flex-2,baseline,,Trash Panda plastics guide,high,True
+mp_0070,Discmania,discmania,D-Line Flex 3,d-line-flex-3,baseline,,Trash Panda plastics guide,high,True
+mp_0071,Discmania,discmania,Exo Hard,exo-hard,baseline,,Trash Panda plastics guide,high,True
+mp_0072,Discmania,discmania,Exo Soft,exo-soft,baseline,,Trash Panda plastics guide,high,True
+mp_0073,Discmania,discmania,Geo,geo,baseline,,Trash Panda plastics guide,high,True
+mp_0074,Discmania,discmania,Glow,glow,glow,,Trash Panda plastics guide,high,True
+mp_0075,Discmania,discmania,Glow Lux,glow-lux,glow,,Trash Panda plastics guide,high,True
+mp_0076,Discmania,discmania,Lux,lux,premium,,Trash Panda plastics guide,high,True
+mp_0077,Discmania,discmania,Lux Vapor,lux-vapor,premium,,Trash Panda plastics guide,high,True
+mp_0078,Discmania,discmania,Meta,meta,premium,,Trash Panda plastics guide,high,True
+mp_0079,Discmania,discmania,Neo,neo,premium,,Trash Panda plastics guide,high,True
+mp_0080,Discmania,discmania,S-Line,s-line,premium,,Trash Panda plastics guide,high,True
+mp_0081,Discmania,discmania,S-Line Glow,s-line-glow,glow,,Trash Panda plastics guide,high,True
+mp_0082,Discmania,discmania,S-Line Swirl,s-line-swirl,premium,,Trash Panda plastics guide,high,True
+mp_0083,Discraft,discraft,Big Z,big-z,premium,,Trash Panda plastics guide,high,True
+mp_0084,Discraft,discraft,CryZtal,cryztal,premium,,Trash Panda plastics guide,high,True
+mp_0085,Discraft,discraft,CryZtal FLX,cryztal-flx,premium,,Trash Panda plastics guide,high,True
+mp_0086,Discraft,discraft,ESP,esp,premium,,Trash Panda plastics guide,high,True
+mp_0087,Discraft,discraft,ESP FLX,esp-flx,premium,,Trash Panda plastics guide,high,True
+mp_0088,Discraft,discraft,Glow Z / ESP Glo,glow-z-esp-glo,glow,,Trash Panda plastics guide,high,True
+mp_0089,Discraft,discraft,Jawbreaker,jawbreaker,baseline,,Trash Panda plastics guide,high,True
+mp_0090,Discraft,discraft,Jawbreaker Z FLX,jawbreaker-z-flx,premium,,Trash Panda plastics guide,high,True
+mp_0091,Discraft,discraft,Pro-D,pro-d,baseline,,Trash Panda plastics guide,high,True
+mp_0092,Discraft,discraft,Soft Pro-D,soft-pro-d,baseline,,Trash Panda plastics guide,high,True
+mp_0093,Discraft,discraft,Soft X,soft-x,baseline,,Trash Panda plastics guide,high,True
+mp_0094,Discraft,discraft,Soft X Line,soft-x-line,baseline,,Trash Panda plastics guide,high,True
+mp_0095,Discraft,discraft,Sparkle Z / Sparkle ESP,sparkle-z-sparkle-esp,premium,,Trash Panda plastics guide,high,True
+mp_0096,Discraft,discraft,Titanium (Ti),titanium-ti,premium,,Trash Panda plastics guide,high,True
+mp_0097,Discraft,discraft,X Line,x-line,baseline,,Trash Panda plastics guide,high,True
+mp_0098,Discraft,discraft,Z FLX,z-flx,premium,,Trash Panda plastics guide,high,True
+mp_0099,Discraft,discraft,Z Line,z-line,premium,,Trash Panda plastics guide,high,True
+mp_0100,Disctroyer OÜ,disctroyer-ou,A-Hard,a-hard,premium,,Trash Panda plastics guide,high,True
+mp_0101,Disctroyer OÜ,disctroyer-ou,A-Medium,a-medium,premium,,Trash Panda plastics guide,high,True
+mp_0102,Disctroyer OÜ,disctroyer-ou,A-Soft,a-soft,premium,,Trash Panda plastics guide,high,True
+mp_0103,Disctroyer OÜ,disctroyer-ou,B-Soft,b-soft,baseline,,Trash Panda plastics guide,high,True
+mp_0104,Divergent Discs,divergent-discs,Incognito Plastic,incognito-plastic,premium,,Trash Panda plastics guide,high,True
+mp_0105,Divergent Discs,divergent-discs,MaxFlex,maxflex,specialty,,Trash Panda plastics guide,high,True
+mp_0106,Divergent Discs,divergent-discs,MaxGrip,maxgrip,premium,,Trash Panda plastics guide,high,True
+mp_0107,Divergent Discs,divergent-discs,MaxGrip Glow,maxgrip-glow,glow,,Trash Panda plastics guide,high,True
+mp_0108,Divergent Discs,divergent-discs,MaxGrip UV,maxgrip-uv,specialty,,Trash Panda plastics guide,high,True
+mp_0109,Divergent Discs,divergent-discs,MaxLife,maxlife,premium,,Trash Panda plastics guide,high,True
+mp_0110,Divergent Discs,divergent-discs,MaxValue,maxvalue,baseline,,Trash Panda plastics guide,high,True
+mp_0111,Divergent Discs,divergent-discs,StayPut,stayput,baseline,,Trash Panda plastics guide,high,True
+mp_0112,Dynamic Discs,dynamic-discs,BioFuzion,biofuzion,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0113,Dynamic Discs,dynamic-discs,Classic,classic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0114,Dynamic Discs,dynamic-discs,Classic Blend,classic-blend,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0115,Dynamic Discs,dynamic-discs,Classic Hard,classic-hard,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0116,Dynamic Discs,dynamic-discs,Classic Soft,classic-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0117,Dynamic Discs,dynamic-discs,Classic SuperSoft,classic-supersoft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0118,Dynamic Discs,dynamic-discs,Fluid,fluid,specialty,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0119,Dynamic Discs,dynamic-discs,Fuzion,fuzion,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0120,Dynamic Discs,dynamic-discs,Fuzion Burst,fuzion-burst,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0121,Dynamic Discs,dynamic-discs,Fuzion Orbit,fuzion-orbit,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0122,Dynamic Discs,dynamic-discs,Fuzion-X,fuzion-x,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0123,Dynamic Discs,dynamic-discs,Hybrid,hybrid,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0124,Dynamic Discs,dynamic-discs,Lucid,lucid,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0125,Dynamic Discs,dynamic-discs,Lucid Air,lucid-air,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0126,Dynamic Discs,dynamic-discs,Lucid Ice,lucid-ice,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0127,Dynamic Discs,dynamic-discs,Lucid Moonshine,lucid-moonshine,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0128,Dynamic Discs,dynamic-discs,Lucid-X,lucid-x,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0129,Dynamic Discs,dynamic-discs,Moonshine,moonshine,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0130,Dynamic Discs,dynamic-discs,Prime,prime,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0131,Dynamic Discs,dynamic-discs,Prime Burst,prime-burst,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0132,Dynamic Discs,dynamic-discs,Prime Moonshine,prime-moonshine,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0133,EV-7 Disc Golf,ev-7-disc-golf,OG Blend,og-blend,baseline,,Trash Panda plastics guide,high,True
+mp_0134,EV-7 Disc Golf,ev-7-disc-golf,OG Deluxe Blend,og-deluxe-blend,premium,,Trash Panda plastics guide,high,True
+mp_0135,EV-7 Disc Golf,ev-7-disc-golf,OG Premium Blend,og-premium-blend,premium,,Trash Panda plastics guide,high,True
+mp_0136,Element Discs,element-discs,Hydra,hydra,premium,,DG Puttheads plastic comparison,medium,True
+mp_0137,Element Discs,element-discs,Terra,terra,baseline,,DG Puttheads plastic comparison,medium,True
+mp_0138,Element Discs,element-discs,Terra Firma,terra-firma,baseline,,DG Puttheads plastic comparison,medium,True
+mp_0139,Elevation Disc Golf,elevation-disc-golf,Newcomer,newcomer,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0140,Elevation Disc Golf,elevation-disc-golf,OG,og,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0141,Elevation Disc Golf,elevation-disc-golf,ecoFIRM,ecofirm,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0142,Elevation Disc Golf,elevation-disc-golf,ecoFLEX,ecoflex,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0143,Elevation Disc Golf,elevation-disc-golf,ecoFLOP,ecoflop,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0144,Elevation Disc Golf,elevation-disc-golf,ecoSUPER FLEX,ecosuper-flex,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0145,Elevation Disc Golf,elevation-disc-golf,glO-G,glo-g,rubber,Rubber-based Elevation blends.,Trash Panda plastics guide,high,True
+mp_0146,Exel Discs,exel-discs,Proto,proto,premium,Prototype plastic; soft premium feel.,https://www.powergripusa.com/products/exel-discs-puro-prototype,high,False
+mp_0147,Fourth Circle Discs,fourth-circle-discs,AU,au,baseline,,Local Discs plastics article,high,True
+mp_0148,Fourth Circle Discs,fourth-circle-discs,Ekka,ekka,premium,,Local Discs plastics article,high,True
+mp_0149,Fourth Circle Discs,fourth-circle-discs,Iron,iron,premium,,Local Discs plastics article,high,True
+mp_0150,Full Turn Discs,full-turn-discs,Express,express,premium,,DG Puttheads plastic comparison,medium,True
+mp_0151,Full Turn Discs,full-turn-discs,Ground,ground,baseline,,DG Puttheads plastic comparison,medium,True
+mp_0152,Full Turn Discs,full-turn-discs,Priority,priority,premium,,DG Puttheads plastic comparison,medium,True
+mp_0153,Galaxy Disc Golf,galaxy-disc-golf,E Class,e-class,premium,,DG Puttheads plastic comparison,medium,True
+mp_0154,Gateway,gateway,$$$,,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0155,Gateway,gateway,Chalk,chalk,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0156,Gateway,gateway,D-Glow,d-glow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0157,Gateway,gateway,Diamond,diamond,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0158,Gateway,gateway,Eraser,eraser,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0159,Gateway,gateway,Evolution Diamond,evolution-diamond,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0160,Gateway,gateway,Evolution Platinum,evolution-platinum,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0161,Gateway,gateway,Firm,firm,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0162,Gateway,gateway,Hemp,hemp,specialty,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0163,Gateway,gateway,Lunar,lunar,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0164,Gateway,gateway,Money,money,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0165,Gateway,gateway,NXT,nxt,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0166,Gateway,gateway,NXT Lite,nxt-lite,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0167,Gateway,gateway,Organic,organic,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0168,Gateway,gateway,Platinum,platinum,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0169,Gateway,gateway,Pure White,pure-white,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0170,Gateway,gateway,Special Blend,special-blend,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0171,Gateway,gateway,Super Soft,super-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0172,Gateway,gateway,Super Stupid Silly Soft,super-stupid-silly-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0173,Gateway,gateway,Super Stupid Soft,super-stupid-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0174,Gateway,gateway,Superglow,superglow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0175,Guru Disc Golf,guru-disc-golf,Arctic line,arctic-line,baseline,,Guru plastics page,high,True
+mp_0176,Guru Disc Golf,guru-disc-golf,Aurora line,aurora-line,premium,,Guru plastics page,high,True
+mp_0177,Guru Disc Golf,guru-disc-golf,C-line,c-line,premium,,Guru plastics page,high,True
+mp_0178,Guru Disc Golf,guru-disc-golf,D-line,d-line,baseline,,Guru plastics page,high,True
+mp_0179,Guru Disc Golf,guru-disc-golf,Glacier line,glacier-line,premium,,Guru plastics page,high,True
+mp_0180,Guru Disc Golf,guru-disc-golf,Icicle line,icicle-line,baseline,,Guru plastics page,high,True
+mp_0181,Guru Disc Golf,guru-disc-golf,Polar line,polar-line,premium,,Guru plastics page,high,True
+mp_0182,Guru Disc Golf,guru-disc-golf,S-line,s-line,premium,,Guru plastics page,high,True
+mp_0183,Guru Disc Golf,guru-disc-golf,Safety line,safety-line,specialty,,Guru plastics page,high,True
+mp_0184,Guru Disc Golf,guru-disc-golf,Vortex line,vortex-line,baseline,,Guru plastics page,high,True
+mp_0185,Hyperflite,hyperflite,Competition Standard,competition-standard,premium,Hyperflite material/formulation for canine discs.,Hyperflite materials pages,high,True
+mp_0186,Hyperflite,hyperflite,FrostBite,frostbite,specialty,Hyperflite material/formulation for canine discs.,Hyperflite materials pages,high,True
+mp_0187,Hyperflite,hyperflite,HyperFlex,hyperflex,specialty,Hyperflite material/formulation for canine discs.,Hyperflite materials pages,high,True
+mp_0188,Hyperflite,hyperflite,Jawz,jawz,premium,Hyperflite material/formulation for canine discs.,Hyperflite materials pages,high,True
+mp_0189,Hyperflite,hyperflite,SofFlite,sofflite,specialty,Hyperflite material/formulation for canine discs.,Hyperflite materials pages,high,True
+mp_0190,Hyperflite,hyperflite,X-Comp,x-comp,premium,Hyperflite material/formulation for canine discs.,Hyperflite materials pages,high,True
+mp_0191,Infinite Discs,infinite-discs,C Blend,c-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0192,Infinite Discs,infinite-discs,C-Blend X-Out,c-blend-x-out,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0193,Infinite Discs,infinite-discs,D Blend,d-blend,baseline,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0194,Infinite Discs,infinite-discs,D-Blend Glow,d-blend-glow,glow,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0195,Infinite Discs,infinite-discs,G Blend,g-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0196,Infinite Discs,infinite-discs,G-Blend X-Out,g-blend-x-out,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0197,Infinite Discs,infinite-discs,Glow C Blend,glow-c-blend,glow,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0198,Infinite Discs,infinite-discs,Gummy C-Blend,gummy-c-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0199,Infinite Discs,infinite-discs,Halo S-Blend,halo-s-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0200,Infinite Discs,infinite-discs,I Blend,i-blend,midgrade,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0201,Infinite Discs,infinite-discs,Luster C-Blend,luster-c-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0202,Infinite Discs,infinite-discs,P Blend,p-blend,baseline,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0203,Infinite Discs,infinite-discs,S Blend,s-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0204,Infinite Discs,infinite-discs,Splatter S-Blend,splatter-s-blend,premium,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0205,Infinite Discs,infinite-discs,X Blend,x-blend,specialty,,DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0206,Innova,innova,Blizzard Champion,blizzard-champion,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0207,Innova,innova,Champion,champion,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0208,Innova,innova,Champion Glow,champion-glow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0209,Innova,innova,Colored Champion Glow,colored-champion-glow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0210,Innova,innova,DX,dx,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0211,Innova,innova,DX Glow,dx-glow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0212,Innova,innova,EchoStar,echostar,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0213,Innova,innova,GStar,gstar,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0214,Innova,innova,Gummy Champion,gummy-champion,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0215,Innova,innova,Halo,halo,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0216,Innova,innova,JK Pro,jk-pro,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0217,Innova,innova,KC Pro,kc-pro,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0218,Innova,innova,Metal Flake,metal-flake,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0219,Innova,innova,Nexus,nexus,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0220,Innova,innova,Pro,pro,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0221,Innova,innova,R-Pro,r-pro,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0222,Innova,innova,Shimmer Star,shimmer-star,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0223,Innova,innova,Star,star,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0224,Innova,innova,StarLite,starlite,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0225,Innova,innova,XT,xt,midgrade,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0226,Kastaplast,kastaplast,K1 Glow,k1-glow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0227,Kastaplast,kastaplast,K1 Hard,k1-hard,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0228,Kastaplast,kastaplast,K1 Recycled,k1-recycled,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0229,Kastaplast,kastaplast,K1 Regrind,k1-regrind,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0230,Kastaplast,kastaplast,K1 Soft,k1-soft,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0231,Kastaplast,kastaplast,K2,k2,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0232,Kastaplast,kastaplast,K3 Hard,k3-hard,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0233,Kastaplast,kastaplast,K3 Soft,k3-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0234,Kastaplast,kastaplast,K4,k4,midgrade,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0235,Latitude 64,latitude-64,Frost Line,frost-line,specialty,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0236,Latitude 64,latitude-64,Gold Line,gold-line,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0237,Latitude 64,latitude-64,Gold Orbit,gold-orbit,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0238,Latitude 64,latitude-64,Gold-X,gold-x,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0239,Latitude 64,latitude-64,Hybrid,hybrid,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0240,Latitude 64,latitude-64,Moonshine,moonshine,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0241,Latitude 64,latitude-64,Opto,opto,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0242,Latitude 64,latitude-64,Opto Air,opto-air,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0243,Latitude 64,latitude-64,Opto Ice,opto-ice,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0244,Latitude 64,latitude-64,Opto Moonshine,opto-moonshine,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0245,Latitude 64,latitude-64,Opto-X,opto-x,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0246,Latitude 64,latitude-64,Recycled,recycled,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0247,Latitude 64,latitude-64,Retro,retro,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0248,Latitude 64,latitude-64,Royal,royal,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0249,Latitude 64,latitude-64,Zero Burst,zero-burst,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0250,Latitude 64,latitude-64,Zero Hard,zero-hard,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0251,Latitude 64,latitude-64,Zero Medium,zero-medium,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0252,Latitude 64,latitude-64,Zero Megasoft,zero-megasoft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0253,Latitude 64,latitude-64,Zero Soft,zero-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0254,Launch Disc Golf,launch-disc-golf,Alpha,alpha,premium,Premium durable blend.,Infinite blog / retailer pages,high,True
+mp_0255,Launch Disc Golf,launch-disc-golf,Alpha Glow,alpha-glow,glow,Glow version of Alpha premium plastic.,Infinite blog / retailer pages,high,True
+mp_0256,Launch Disc Golf,launch-disc-golf,Omega,omega,baseline,"Tackier, stiffer putter-type plastic.",Infinite blog / retailer pages,high,True
+mp_0257,Launch Disc Golf,launch-disc-golf,Safefly,safefly,specialty,"Very flexible, grippy blend that sticks on landing.",Infinite blog / retailer pages,high,True
+mp_0258,Legacy Discs,legacy-discs,Excel,excel,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0259,Legacy Discs,legacy-discs,Gravity Series,gravity-series,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0260,Legacy Discs,legacy-discs,Icon Series,icon-series,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0261,Legacy Discs,legacy-discs,Legend,legend,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0262,Legacy Discs,legacy-discs,Pinnacle Series,pinnacle-series,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0263,Legacy Discs,legacy-discs,Protege Series,protege-series,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0264,Legacy Discs,legacy-discs,Skyline Series,skyline-series,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0265,Legacy Discs,legacy-discs,Ultralight,ultralight,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0266,Lightning Discs,lightning-discs,Lightning Glow,lightning-glow,glow,,Trash Panda plastics guide,high,True
+mp_0267,Lightning Discs,lightning-discs,Lightning Standard,lightning-standard,baseline,,Trash Panda plastics guide,high,True
+mp_0268,Lightning Discs,lightning-discs,Lightning Sure Grip,lightning-sure-grip,premium,,Trash Panda plastics guide,high,True
+mp_0269,Lone Star Disc,lone-star-disc,Alpha,alpha,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0270,Lone Star Disc,lone-star-disc,Bravo,bravo,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0271,Lone Star Disc,lone-star-disc,Charlie,charlie,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0272,Lone Star Disc,lone-star-disc,Delta 1,delta-1,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0273,Lone Star Disc,lone-star-disc,Delta 2,delta-2,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0274,Lone Star Disc,lone-star-disc,Founders,founders,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0275,Lone Star Disc,lone-star-disc,Glow / Alpha Glow,glow-alpha-glow,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0276,Lone Star Disc,lone-star-disc,Lima,lima,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0277,Lone Star Disc,lone-star-disc,Victor 1 (V1),victor-1-v1,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0278,Lone Star Disc,lone-star-disc,Victor 2 (V2),victor-2-v2,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0279,Løft Discs,lft-discs,Alpha-Solid,alpha-solid,premium,,Trash Panda plastics guide,high,True
+mp_0280,Løft Discs,lft-discs,Beta-Solid,beta-solid,premium,,Trash Panda plastics guide,high,True
+mp_0281,Løft Discs,lft-discs,Gamma-Solid,gamma-solid,premium,,Trash Panda plastics guide,high,True
+mp_0282,Løft Discs,lft-discs,Supernova,supernova,premium,,Trash Panda plastics guide,high,True
+mp_0283,MVP Disc Sports,mvp-disc-sports,Cosmic Electron,cosmic-electron,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0284,MVP Disc Sports,mvp-disc-sports,Cosmic Neutron,cosmic-neutron,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0285,MVP Disc Sports,mvp-disc-sports,Cosmic Proton,cosmic-proton,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0286,MVP Disc Sports,mvp-disc-sports,Eclipse 2.0,eclipse-2-0,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0287,MVP Disc Sports,mvp-disc-sports,Eclipse R2,eclipse-r2,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0288,MVP Disc Sports,mvp-disc-sports,Eclipse Soft,eclipse-soft,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0289,MVP Disc Sports,mvp-disc-sports,Electron,electron,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0290,MVP Disc Sports,mvp-disc-sports,Electron Firm,electron-firm,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0291,MVP Disc Sports,mvp-disc-sports,Electron Soft,electron-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0292,MVP Disc Sports,mvp-disc-sports,Fission,fission,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0293,MVP Disc Sports,mvp-disc-sports,Neutron,neutron,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0294,MVP Disc Sports,mvp-disc-sports,Neutron Soft,neutron-soft,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0295,MVP Disc Sports,mvp-disc-sports,Plasma,plasma,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0296,MVP Disc Sports,mvp-disc-sports,Proton,proton,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0297,MVP Disc Sports,mvp-disc-sports,R2 Neutron,r2-neutron,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0298,Millennium,millennium,Delta T,delta-t,baseline,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0299,Millennium,millennium,ET,et,premium,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0300,Millennium,millennium,Lunar,lunar,glow,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0301,Millennium,millennium,Millenium Standard,millenium-standard,baseline,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0302,Millennium,millennium,Quantum,quantum,premium,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0303,Millennium,millennium,Quantum Zero-G,quantum-zero-g,premium,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0304,Millennium,millennium,Sirius,sirius,premium,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0305,Millennium,millennium,Supersoft,supersoft,baseline,,DG Puttheads; Portal Disc Sports plastics page,high,True
+mp_0306,Mint Discs,mint-discs,Apex Plastic,apex-plastic,premium,,Trash Panda plastics guide,high,True
+mp_0307,Mint Discs,mint-discs,Eternal Plastic,eternal-plastic,premium,,Trash Panda plastics guide,high,True
+mp_0308,Mint Discs,mint-discs,Nocturnal Glow Plastic,nocturnal-glow-plastic,glow,,Trash Panda plastics guide,high,True
+mp_0309,Mint Discs,mint-discs,Royal Plastic,royal-plastic,baseline,,Trash Panda plastics guide,high,True
+mp_0310,Mint Discs,mint-discs,Sublime Plastic,sublime-plastic,premium,,Trash Panda plastics guide,high,True
+mp_0311,Obsidian Discs Oy,obsidian-discs-oy,K9,k9,premium,Premium K9 plastic noted as the main Obsidian blend.,Disc Golf Reviewer review,high,True
+mp_0312,Osuma Disc,osuma-disc,Bare-Basic,bare-basic,base,Baseline plastic found on retail Osuma listings.,https://www.kuntokauppa.fi/osuma-disc,high,False
+mp_0313,Osuma Disc,osuma-disc,Pure-Premium,pure-premium,premium,Premium clear/durable plastic.,https://powergrip.fi/tuote/puprsant,high,False
+mp_0314,Osuma Disc,osuma-disc,Sleek-Ultrium,sleek-ultrium,premium,Premium grippy/durable plastic.,https://powergrip.fi/tuote/slulsant,high,False
+mp_0315,Plastic Addicts,plastic-addicts,Main Line,main-line,baseline,,DG Puttheads plastic comparison,medium,True
+mp_0316,Plastic Addicts,plastic-addicts,Top Line,top-line,premium,,DG Puttheads plastic comparison,medium,True
+mp_0317,Prodigy Disc,prodigy-disc,200 Plastic,200-plastic,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0318,Prodigy Disc,prodigy-disc,300 Plastic,300-plastic,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0319,Prodigy Disc,prodigy-disc,300S,300s,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0320,Prodigy Disc,prodigy-disc,350G Plastic,350g-plastic,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0321,Prodigy Disc,prodigy-disc,350RX,350rx,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0322,Prodigy Disc,prodigy-disc,400 Plastic,400-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0323,Prodigy Disc,prodigy-disc,400G Plastic,400g-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0324,Prodigy Disc,prodigy-disc,400S,400s,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0325,Prodigy Disc,prodigy-disc,450,450,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0326,Prodigy Disc,prodigy-disc,500 Plastic,500-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0327,Prodigy Disc,prodigy-disc,750 Plastic,750-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0328,Prodigy Disc,prodigy-disc,750G Plastic,750g-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0329,Prodigy Disc,prodigy-disc,Air Plastic,air-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0330,Prodigy Disc,prodigy-disc,BaseGrip,basegrip,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0331,Prodigy Disc,prodigy-disc,DuraFlex,duraflex,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0332,Prodigy Disc,prodigy-disc,DuraFlex Glow,duraflex-glow,glow,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0333,Prodigy Disc,prodigy-disc,FX Series,fx-series,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0334,Prodigy Disc,prodigy-disc,Glow Plastic,glow-plastic,glow,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0335,Prodigy Disc,prodigy-disc,Spectrum Plastic,spectrum-plastic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0336,Prodiscus,prodiscus,Base Hard,base-hard,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0337,Prodiscus,prodiscus,Base Soft,base-soft,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0338,Prodiscus,prodiscus,Basic,basic,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0339,Prodiscus,prodiscus,Premium,premium,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0340,Prodiscus,prodiscus,Ultrium,ultrium,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide,high,True
+mp_0341,RPM Discs/Disc Golf Aotearoa,rpm-discs-disc-golf-aotearoa,Atomic,atomic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide; Local Discs article,high,True
+mp_0342,RPM Discs/Disc Golf Aotearoa,rpm-discs-disc-golf-aotearoa,Cosmic,cosmic,premium,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide; Local Discs article,high,True
+mp_0343,RPM Discs/Disc Golf Aotearoa,rpm-discs-disc-golf-aotearoa,Magma,magma,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide; Local Discs article,high,True
+mp_0344,RPM Discs/Disc Golf Aotearoa,rpm-discs-disc-golf-aotearoa,Magma Soft,magma-soft,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide; Local Discs article,high,True
+mp_0345,RPM Discs/Disc Golf Aotearoa,rpm-discs-disc-golf-aotearoa,RPM Glow,rpm-glow,glow,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide; Local Discs article,high,True
+mp_0346,RPM Discs/Disc Golf Aotearoa,rpm-discs-disc-golf-aotearoa,Strata,strata,baseline,,Trash Panda plastics guide; DG Puttheads; Discount Disc Golf plastics guide; Local Discs article,high,True
+mp_0347,Reptilian Disc Golf,reptilian-disc-golf,Amber,amber,premium,,DG Puttheads plastic comparison,medium,True
+mp_0348,Reptilian Disc Golf,reptilian-disc-golf,Fossil/Fossil Fuel,fossil-fossil-fuel,baseline,,DG Puttheads plastic comparison,medium,True
+mp_0349,Reptilian Disc Golf,reptilian-disc-golf,Organic,organic,baseline,,DG Puttheads plastic comparison,medium,True
+mp_0350,Reptilian Disc Golf,reptilian-disc-golf,Prehistoric,prehistoric,premium,,DG Puttheads plastic comparison,medium,True
+mp_0351,Salient Discs,salient-discs,Cryo,cryo,premium,,Infinite retailer pages,high,True
+mp_0352,Salient Discs,salient-discs,Karbon,karbon,premium,,Infinite retailer pages,high,True
+mp_0353,Salient Discs,salient-discs,Liquid,liquid,premium,,Infinite retailer pages,high,True
+mp_0354,Salient Discs,salient-discs,Liquid Metal,liquid-metal,premium,,Infinite retailer pages,high,True
+mp_0355,Skyquest Discs,skyquest-discs,Skyquest Premium,skyquest-premium,premium,Skyquest discs shown in Skyquest Premium plastic.,Lucky Disc Golf Source catalog,high,True
+mp_0356,Storm Disc Golf,storm-disc-golf,Category 1,category-1,baseline,,Infinite blog; Discount Disc Golf plastics guide,high,True
+mp_0357,Storm Disc Golf,storm-disc-golf,Category 1 Firm,category-1-firm,baseline,,Infinite blog; Discount Disc Golf plastics guide,high,True
+mp_0358,Storm Disc Golf,storm-disc-golf,Category 2,category-2,premium,,Infinite blog; Discount Disc Golf plastics guide,high,True
+mp_0359,Storm Disc Golf,storm-disc-golf,Category 3,category-3,premium,,Infinite blog; Discount Disc Golf plastics guide,high,True
+mp_0360,Streamline Discs,streamline-discs,Cosmic Electron,cosmic-electron,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0361,Streamline Discs,streamline-discs,Cosmic Neutron,cosmic-neutron,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0362,Streamline Discs,streamline-discs,Cosmic Proton,cosmic-proton,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0363,Streamline Discs,streamline-discs,Eclipse 2.0,eclipse-2-0,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0364,Streamline Discs,streamline-discs,Eclipse R2,eclipse-r2,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0365,Streamline Discs,streamline-discs,Eclipse Soft,eclipse-soft,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0366,Streamline Discs,streamline-discs,Electron,electron,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0367,Streamline Discs,streamline-discs,Electron Firm,electron-firm,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0368,Streamline Discs,streamline-discs,Electron Soft,electron-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0369,Streamline Discs,streamline-discs,Fission,fission,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0370,Streamline Discs,streamline-discs,Neutron,neutron,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0371,Streamline Discs,streamline-discs,Neutron Soft,neutron-soft,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0372,Streamline Discs,streamline-discs,Plasma,plasma,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0373,Streamline Discs,streamline-discs,Proton,proton,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0374,Streamline Discs,streamline-discs,R2 Neutron,r2-neutron,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0375,Sune Sport,sune-sport,S-Plastic,s-plastic,baseline,Cost-effective lightweight base blend.,Discount Disc Golf plastics guide,high,True
+mp_0376,Thought Space Athletics,thought-space-athletics,Aura,aura,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0377,Thought Space Athletics,thought-space-athletics,Ethereal,ethereal,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0378,Thought Space Athletics,thought-space-athletics,Ethos,ethos,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0379,Thought Space Athletics,thought-space-athletics,Nebula Aura,nebula-aura,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0380,Thought Space Athletics,thought-space-athletics,Nebula Ethereal,nebula-ethereal,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0381,Thought Space Athletics,thought-space-athletics,Nerve,nerve,baseline,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0382,Trash Panda,trash-panda,Baseline,baseline,base,100% recycled baseline blend.,https://trashpandadiscgolf.com/products/recycled-baseline-inner-core-disc-golf-putter,high,False
+mp_0383,Trash Panda,trash-panda,Premium,premium,premium,100% recycled premium plastic.,https://powergrip.fi/tuote/tpredune/trash-panda-premium-dune,high,False
+mp_0384,Vibram Disc Golf,vibram-disc-golf,X-Link Firm,x-link-firm,rubber,,Trash Panda plastics guide,high,True
+mp_0385,Vibram Disc Golf,vibram-disc-golf,X-Link Glow,x-link-glow,rubber,,Trash Panda plastics guide,high,True
+mp_0386,Vibram Disc Golf,vibram-disc-golf,X-Link Granite,x-link-granite,rubber,,Trash Panda plastics guide,high,True
+mp_0387,Vibram Disc Golf,vibram-disc-golf,X-Link Medium,x-link-medium,rubber,,Trash Panda plastics guide,high,True
+mp_0388,Vibram Disc Golf,vibram-disc-golf,X-Link Soft,x-link-soft,rubber,,Trash Panda plastics guide,high,True
+mp_0389,Viking Discs,viking-discs,Air,air,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0390,Viking Discs,viking-discs,Armor,armor,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0391,Viking Discs,viking-discs,Ground,ground,baseline,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0392,Viking Discs,viking-discs,Storm,storm,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0393,Viking Discs,viking-discs,Warpaint,warpaint,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0394,Westside Discs,westside-discs,BT Burst,bt-burst,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0395,Westside Discs,westside-discs,BT Hard,bt-hard,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0396,Westside Discs,westside-discs,BT Medium,bt-medium,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0397,Westside Discs,westside-discs,BT Soft,bt-soft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0398,Westside Discs,westside-discs,Elasto,elasto,specialty,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0399,Westside Discs,westside-discs,Hybrid,hybrid,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0400,Westside Discs,westside-discs,Megasoft,megasoft,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0401,Westside Discs,westside-discs,Moonshine,moonshine,glow,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0402,Westside Discs,westside-discs,Origio,origio,baseline,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0403,Westside Discs,westside-discs,Recycled,recycled,recycled,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0404,Westside Discs,westside-discs,Revive,revive,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0405,Westside Discs,westside-discs,Tournament,tournament,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0406,Westside Discs,westside-discs,Tournament Orbit,tournament-orbit,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0407,Westside Discs,westside-discs,Tournament-X,tournament-x,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0408,Westside Discs,westside-discs,VIP,vip,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0409,Westside Discs,westside-discs,VIP Air,vip-air,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0410,Westside Discs,westside-discs,VIP Ice,vip-ice,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0411,Westside Discs,westside-discs,VIP-X,vip-x,premium,,Trash Panda plastics guide; DG Puttheads plastic comparison,high,True
+mp_0412,Wild Discs,wild-discs,Landslide,landslide,baseline,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0413,Wild Discs,wild-discs,Lava,lava,premium,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0414,Wild Discs,wild-discs,Meteor,meteor,premium,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0415,Wild Discs,wild-discs,Ozone,ozone,premium,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0416,Wild Discs,wild-discs,Quicksand,quicksand,specialty,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0417,Wild Discs,wild-discs,Ultralight Confetti,ultralight-confetti,specialty,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0418,Wild Discs,wild-discs,Whirlpool,whirlpool,premium,,Infinite blog / retailer pages; Discount Disc Golf plastics guide,high,True
+mp_0419,XCOM Discs,xcom-discs,Earth,earth,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0420,XCOM Discs,xcom-discs,Mars,mars,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0421,XCOM Discs,xcom-discs,Mercury,mercury,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0422,XCOM Discs,xcom-discs,Saturn,saturn,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0423,XCOM Discs,xcom-discs,Venus,venus,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0424,XCOM Discs,xcom-discs,XCOM Durable,xcom-durable,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0425,XCOM Discs,xcom-discs,XCOM Premium Glow,xcom-premium-glow,glow,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0426,XCOM Discs,xcom-discs,XCom Basic,xcom-basic,baseline,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0427,XCOM Discs,xcom-discs,XCom U-Line Durable,xcom-u-line-durable,premium,,Discount Disc Golf catalog / plastics guide,medium,True
+mp_0428,Yikun Discs,yikun-discs,Crystal Line,crystal-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0429,Yikun Discs,yikun-discs,Dragon Line,dragon-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0430,Yikun Discs,yikun-discs,Glaze Line,glaze-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0431,Yikun Discs,yikun-discs,Glaze-X,glaze-x,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0432,Yikun Discs,yikun-discs,Nature Line,nature-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0433,Yikun Discs,yikun-discs,Neon Line,neon-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0434,Yikun Discs,yikun-discs,Phoenix Air Line,phoenix-air-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0435,Yikun Discs,yikun-discs,Phoenix Color,phoenix-color,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0436,Yikun Discs,yikun-discs,Phoenix Glow Line,phoenix-glow-line,glow,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0437,Yikun Discs,yikun-discs,Phoenix Line,phoenix-line,baseline,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0438,Yikun Discs,yikun-discs,Phoenix Star Line,phoenix-star-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0439,Yikun Discs,yikun-discs,Swift line,swift-line,baseline,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0440,Yikun Discs,yikun-discs,Tiger Line,tiger-line,baseline,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0441,Yikun Discs,yikun-discs,Tiger Lite,tiger-lite,baseline,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0442,Yikun Discs,yikun-discs,Tiger-Inner Colour,tiger-inner-colour,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True
+mp_0443,Yikun Discs,yikun-discs,Tortoise Line,tortoise-line,premium,,Trash Panda plastics guide; Discount Disc Golf plastics guide,high,True

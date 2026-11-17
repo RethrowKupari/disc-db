@@ -33,8 +33,8 @@ ching-sports__juju-strato-plastic,CHING Sports,Juju Strato Plastic,baseline,all,
 ching-sports__juju-thermo-plastic,CHING Sports,Juju Thermo Plastic,premium,all,
 ching-sports__precision-meso-plastic,CHING Sports,Precision Meso Plastic,premium,all,
 ching-sports__precision-thermo-plastic,CHING Sports,Precision Thermo Plastic,premium,all,
-clash-discs__hardy,Clash Discs,Hardy,base,Putt & Approach|Mid Range,baseline putter/mid blend
-clash-discs__softy,Clash Discs,Softy,base,Putt & Approach|Mid Range,soft putter/mid blend
+clash-discs__hardy,Clash Discs,Hardy,baseline,Putt & Approach|Mid Range,baseline putter/mid blend
+clash-discs__softy,Clash Discs,Softy,baseline,Putt & Approach|Mid Range,soft putter/mid blend
 clash-discs__special-blend,Clash Discs,Special Blend,premium,all,
 clash-discs__steady,Clash Discs,Steady,premium,all,
 clash-discs__steady-ring,Clash Discs,Steady Ring,premium,all,
@@ -152,7 +152,6 @@ full-turn-discs__express,Full Turn Discs,Express,premium,all,
 full-turn-discs__ground,Full Turn Discs,Ground,baseline,all,
 full-turn-discs__priority,Full Turn Discs,Priority,premium,all,
 galaxy-disc-golf__e-class,Galaxy Disc Golf,E Class,premium,all,
-gateway__nan,Gateway,$$$,baseline,all,
 gateway__chalk,Gateway,Chalk,baseline,Putt & Approach,putter-only blend
 gateway__d-glow,Gateway,D-Glow,glow,Putt & Approach,putter-only blend
 gateway__diamond,Gateway,Diamond,premium,all,
@@ -246,7 +245,9 @@ latitude-64__opto-moonshine,Latitude 64,Opto Moonshine,glow,all,
 latitude-64__opto-x,Latitude 64,Opto-X,premium,all,
 latitude-64__recycled,Latitude 64,Recycled,recycled,all,
 latitude-64__retro,Latitude 64,Retro,baseline,all,
-latitude-64__royal,Latitude 64,Royal,premium,all,
+latitude-64__royal,Latitude 64,Royal Grand,premium,all,opaque grippy Royal line blend; id kept as royal for stable references
+latitude-64__royal-clear,Latitude 64,Royal Clear,premium,all,transparent Royal line blend
+latitude-64__royal-sense,Latitude 64,Royal Sense,premium,Putt & Approach|Mid Range,"Royal line putter blend, discontinued"
 latitude-64__zero-burst,Latitude 64,Zero Burst,baseline,Putt & Approach,Zero line = putters only
 latitude-64__zero-hard,Latitude 64,Zero Hard,baseline,Putt & Approach,Zero line = putters only
 latitude-64__zero-medium,Latitude 64,Zero Medium,baseline,Putt & Approach,Zero line = putters only
@@ -310,7 +311,7 @@ mint-discs__nocturnal-glow-plastic,Mint Discs,Nocturnal Glow Plastic,glow,all,
 mint-discs__royal-plastic,Mint Discs,Royal Plastic,baseline,Putt & Approach|Mid Range,baseline putter/mid blend
 mint-discs__sublime-plastic,Mint Discs,Sublime Plastic,premium,all,
 obsidian-discs-oy__k9,Obsidian Discs Oy,K9,premium,all,
-osuma-disc__bare-basic,Osuma Disc,Bare-Basic,base,all,
+osuma-disc__bare-basic,Osuma Disc,Bare-Basic,baseline,all,
 osuma-disc__pure-premium,Osuma Disc,Pure-Premium,premium,all,
 osuma-disc__sleek-ultrium,Osuma Disc,Sleek-Ultrium,premium,all,
 plastic-addicts__main-line,Plastic Addicts,Main Line,baseline,all,
@@ -380,7 +381,7 @@ thought-space-athletics__ethos,Thought Space Athletics,Ethos,premium,all,
 thought-space-athletics__nebula-aura,Thought Space Athletics,Nebula Aura,premium,all,
 thought-space-athletics__nebula-ethereal,Thought Space Athletics,Nebula Ethereal,premium,all,
 thought-space-athletics__nerve,Thought Space Athletics,Nerve,baseline,all,
-trash-panda__baseline,Trash Panda,Baseline,base,all,
+trash-panda__baseline,Trash Panda,Baseline,baseline,all,
 trash-panda__premium,Trash Panda,Premium,premium,all,
 vibram-disc-golf__x-link-firm,Vibram Disc Golf,X-Link Firm,rubber,all,
 vibram-disc-golf__x-link-glow,Vibram Disc Golf,X-Link Glow,rubber,all,

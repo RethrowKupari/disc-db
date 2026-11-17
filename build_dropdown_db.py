@@ -2,30 +2,62 @@
 """
 Builds a two-dropdown database (disc -> plastics) from the two source CSVs.
 
-Inputs  (source data, never modified):
+Usage (from anywhere; paths are relative to this file):
+    pip install -r requirements.txt
+    python build_dropdown_db.py [--src DIR] [--out DIR]
+
+Inputs  (source data in sourcedata/, never modified):
     disc_golf_discs_flight_numbers_v2_powergrip_checked.csv
     disc_golf_manufacturer_plastics_v2_powergrip_checked.csv
 
-Config  (hand-editable, re-run after editing):
+Config  (hand-editable, next to this file, re-run after editing):
     manufacturers.csv   - which brands are included
     plastic_rules.csv   - which disc types each plastic is allowed on
     overrides.csv       - per-disc add/remove exceptions
 
-Outputs:
+Outputs (written next to this file by default):
     discs.csv, plastics.csv, disc_plastics.csv, dropdown_db.json
 """
+import argparse
 import json
 import re
 from pathlib import Path
 
 import pandas as pd
 
-SRC = Path("/mnt/user-data/uploads")
-CFG = Path(".")
-OUT = Path("/mnt/user-data/outputs")
+ROOT = Path(__file__).resolve().parent
+
+ap = argparse.ArgumentParser(description=__doc__.splitlines()[1])
+ap.add_argument("--src", type=Path, default=ROOT / "sourcedata",
+                help="folder with the two source CSVs (default: sourcedata/)")
+ap.add_argument("--out", type=Path, default=ROOT,
+                help="folder to write outputs to (default: repo folder)")
+args = ap.parse_args()
+
+SRC = args.src
+CFG = ROOT
+OUT = args.out
 OUT.mkdir(parents=True, exist_ok=True)
 
+DISCS_SRC = SRC / "disc_golf_discs_flight_numbers_v2_powergrip_checked.csv"
+PLASTICS_SRC = SRC / "disc_golf_manufacturer_plastics_v2_powergrip_checked.csv"
+for f in (DISCS_SRC, PLASTICS_SRC):
+    if not f.is_file():
+        raise SystemExit(f"missing source file: {f}")
+
 DISC_TYPES = ["Distance Driver", "Control Driver", "Mid Range", "Putt & Approach"]
+
+# Same tier spelled differently in the source; keep the category list clean.
+CATEGORY_ALIASES = {"base": "baseline"}
+
+
+def read_csv(path: Path) -> pd.DataFrame:
+    return pd.read_csv(path, encoding="utf-8")
+
+
+def write_csv(df: pd.DataFrame, path: Path) -> None:
+    # explicit LF + UTF-8 so Windows and Linux builds produce identical files
+    df.to_csv(path, index=False, encoding="utf-8", lineterminator="\n")
 
 
 def slug(s: str) -> str:
@@ -35,10 +67,15 @@ def slug(s: str) -> str:
 
 
 # ---------------------------------------------------------------- load source
-discs = pd.read_csv(SRC / "disc_golf_discs_flight_numbers_v2_powergrip_checked.csv")
-plastics = pd.read_csv(SRC / "disc_golf_manufacturer_plastics_v2_powergrip_checked.csv")
+discs = read_csv(DISCS_SRC)
+plastics = read_csv(PLASTICS_SRC)
+plastics["plastic_category"] = plastics["plastic_category"].replace(CATEGORY_ALIASES)
 
-mfrs = pd.read_csv(CFG / "manufacturers.csv")
+no_mfr = discs["manufacturer"].isna().sum()
+if no_mfr:
+    print(f"  ! {no_mfr} source discs have no manufacturer and are skipped")
+
+mfrs = read_csv(CFG / "manufacturers.csv")
 included = set(mfrs.loc[mfrs["include"] == True, "manufacturer"])  # noqa: E712
 
 discs = discs[discs["manufacturer"].isin(included)].copy()
@@ -47,15 +84,64 @@ plastics = plastics[plastics["manufacturer"].isin(included)].copy()
 # ---------------------------------------------------------------- ids
 discs["manufacturer_slug"] = discs["manufacturer"].map(slug)
 discs["disc_id"] = discs["manufacturer_slug"] + "__" + discs["disc_name"].map(slug)
+
+# A blank plastic_slug would give an id like "gateway__" (or NaN). Derive it
+# from the name; if the name has no letters/digits either (Gateway "$$$",
+# which is just the Money blend, already listed), drop the plastic loudly.
+plastics["plastic_slug"] = [
+    s if isinstance(s, str) and s.strip() else slug(n)
+    for s, n in zip(plastics["plastic_slug"], plastics["plastic_name"])
+]
+unsluggable = plastics["plastic_slug"] == ""
+for r in plastics[unsluggable].itertuples():
+    print(f"  ! dropped plastic with no usable id: {r.manufacturer} / {r.plastic_name!r}")
+plastics = plastics[~unsluggable].copy()
+
 plastics["plastic_id"] = (
     plastics["manufacturer_slug"] + "__" + plastics["plastic_slug"]
 )
 
+# ---------------------------------------------------------------- rules
+rules = read_csv(CFG / "plastic_rules.csv")
+
+# plastic_rules.csv names win over the source. This renames a plastic but
+# keeps its id stable (e.g. latitude-64__royal is displayed as "Royal Grand").
+rule_names = dict(zip(rules["plastic_id"], rules["plastic_name"]))
+for i, r in plastics.iterrows():
+    new = rule_names.get(r["plastic_id"])
+    if isinstance(new, str) and new != r["plastic_name"]:
+        print(f"renamed {r['plastic_id']}: {r['plastic_name']!r} -> {new!r}")
+        plastics.at[i, "plastic_name"] = new
+
+# Plastics that exist in plastic_rules.csv but are missing from the source
+# file (e.g. Latitude 64 Royal Grand / Royal Clear) are added here, so the
+# fix survives every rebuild without touching the source data.
+known_names = set(zip(plastics["manufacturer"], plastics["plastic_name"]))
+missing = rules[
+    ~rules["plastic_id"].isin(set(plastics["plastic_id"]))
+    & rules["manufacturer"].isin(included)
+    & ~pd.Series(
+        list(zip(rules["manufacturer"], rules["plastic_name"])), index=rules.index
+    ).isin(known_names)
+]
+if not missing.empty:
+    ids = missing["plastic_id"].str.split("__", n=1, expand=True)
+    extra = pd.DataFrame(
+        {
+            "manufacturer": missing["manufacturer"].values,
+            "manufacturer_slug": ids[0].values,
+            "plastic_name": missing["plastic_name"].values,
+            "plastic_slug": ids[1].values,
+            "plastic_category": missing["plastic_category"].replace(CATEGORY_ALIASES).values,
+            "plastic_id": missing["plastic_id"].values,
+        }
+    )
+    plastics = pd.concat([plastics, extra], ignore_index=True)
+    print(f"added from plastic_rules.csv: {sorted(extra['plastic_id'])}")
+
 assert discs["disc_id"].is_unique, "duplicate disc_id"
 assert plastics["plastic_id"].is_unique, "duplicate plastic_id"
 
-# ---------------------------------------------------------------- rules
-rules = pd.read_csv(CFG / "plastic_rules.csv")
 rules = rules[rules["plastic_id"].isin(set(plastics["plastic_id"]))]
 allowed_types = dict(zip(rules["plastic_id"], rules["allowed_disc_types"]))
 
@@ -89,7 +175,7 @@ for _, d in discs.iterrows():
 dp = pd.DataFrame(pairs)
 
 # ---------------------------------------------------------------- overrides
-ov = pd.read_csv(CFG / "overrides.csv")
+ov = read_csv(CFG / "overrides.csv")
 ov = ov.dropna(subset=["disc_id", "plastic_id"])
 
 removals = ov[ov["action"].str.lower() == "remove"]
@@ -145,9 +231,9 @@ plastics_out = plastics[
      "plastic_slug", "plastic_category"]
 ].sort_values(["manufacturer", "plastic_name"])
 
-discs_out.to_csv(OUT / "discs.csv", index=False)
-plastics_out.to_csv(OUT / "plastics.csv", index=False)
-dp.to_csv(OUT / "disc_plastics.csv", index=False)
+write_csv(discs_out, OUT / "discs.csv")
+write_csv(plastics_out, OUT / "plastics.csv")
+write_csv(dp, OUT / "disc_plastics.csv")
 
 by_disc = dp.groupby("disc_id")["plastic_id"].apply(list).to_dict()
 db = {
@@ -176,11 +262,13 @@ db = {
         for r in discs_out.itertuples()
     ],
 }
-(OUT / "dropdown_db.json").write_text(json.dumps(db, indent=1, ensure_ascii=False))
+with open(OUT / "dropdown_db.json", "w", encoding="utf-8", newline="\n") as fh:
+    fh.write(json.dumps(db, indent=1, ensure_ascii=False))
 
-# also copy the editable config next to the outputs
-for f in ["manufacturers.csv", "plastic_rules.csv", "overrides.csv"]:
-    (OUT / f).write_text(Path(f).read_text())
+# when building somewhere else, copy the editable config next to the outputs
+if OUT.resolve() != CFG.resolve():
+    for f in ["manufacturers.csv", "plastic_rules.csv", "overrides.csv"]:
+        (OUT / f).write_bytes((CFG / f).read_bytes())
 
 print(f"manufacturers : {len(included)}")
 print(f"discs         : {len(discs_out)}")
