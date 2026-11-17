@@ -56,8 +56,12 @@ def read_csv(path: Path) -> pd.DataFrame:
 
 
 def write_csv(df: pd.DataFrame, path: Path) -> None:
-    # explicit LF + UTF-8 so Windows and Linux builds produce identical files
-    df.to_csv(path, index=False, encoding="utf-8", lineterminator="\n")
+    # explicit LF + UTF-8 so Windows and Linux builds produce identical files.
+    # pandas 1.5 renamed line_terminator -> lineterminator; support both.
+    try:
+        df.to_csv(path, index=False, encoding="utf-8", lineterminator="\n")
+    except TypeError:
+        df.to_csv(path, index=False, encoding="utf-8", line_terminator="\n")
 
 
 def slug(s: str) -> str:
